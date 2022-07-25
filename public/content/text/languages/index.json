@@ -1,0 +1,30 @@
+[
+	{
+		"id": "1",
+		"title": "Карельский",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
+		"dialects": [
+			{
+				"title": "Тверской"
+			},
+			{
+				"title": "Северный"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"title": "Мокшанский",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+	},
+	{
+		"id": "3",
+		"title": "Нанайский",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+	},
+	{
+		"id": "4",
+		"title": "Хантыйский",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+	}
+]
