@@ -1,0 +1,56 @@
+{
+	"title": "Разговорники",
+	"description": "Приветствуем, друзья! На этом сайте вы найдете разговорники народов России. Сайт создан в рамках проекта \"Всяк сущий в ней язык\", выполняемого Ассамблеей народов России в партнёрстве с Высшей школой экономики и поддержанного Фондом президентских грантов.",
+	"team": [
+		{
+			"name": "Алексей Козлов",
+			"image": "https://joeschmoe.io/api/v1/jake",
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.          Quo quam obcaecati temporibus ipsa, mollitia molestiae officiis esse iure. Saepe, eum."
+		},
+		{
+			"name": "Василий Харитонов",
+			"image": "https://joeschmoe.io/api/v1/jean",
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.          Quo quam obcaecati temporibus ipsa, mollitia molestiae officiis esse iure. Saepe, eum."
+		},
+		{
+			"name": "Динара Степина",
+			"image": "https://joeschmoe.io/api/v1/jess",
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.          Quo quam obcaecati temporibus ipsa, mollitia molestiae officiis esse iure. Saepe, eum."
+		},
+		{
+			"name": "Мария Коновалова",
+			"image": "https://joeschmoe.io/api/v1/jeane",
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.          Quo quam obcaecati temporibus ipsa, mollitia molestiae officiis esse iure. Saepe, eum."
+		}
+	],
+	"languages": [
+		{
+			"id": "1",
+			"title": "Карельский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
+			"dialects": [
+				{
+					"title": "Тверской"
+				},
+				{
+					"title": "Северный"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "Мокшанский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		},
+		{
+			"id": "3",
+			"title": "Нанайский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		},
+		{
+			"id": "4",
+			"title": "Хантыйский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		}
+	]
+}
