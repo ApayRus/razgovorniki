@@ -30,9 +30,11 @@
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
 			"dialects": [
 				{
+					"id": "1",
 					"title": "Тверской"
 				},
 				{
+					"id": "2",
 					"title": "Северный"
 				}
 			]

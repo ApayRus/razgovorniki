@@ -9,12 +9,12 @@
 				{
 					"title": "Тверской",
 					"text": "kuin aziet?",
-					"audios": []
+					"audios": ["/content/audio/1/1/1/1.4т.mp3"]
 				},
 				{
 					"title": "Северный",
 					"text": "Kuin šie elät?",
-					"audios": []
+					"audios": ["/content/audio/1/2/1/сев (4).mp3"]
 				}
 			]
 		},
@@ -25,12 +25,12 @@
 				{
 					"title": "Тверской",
 					"text": "midä ruatta?/ midä ruat?",
-					"audios": []
+					"audios": ["/content/audio/1/1/1/1.5т.mp3"]
 				},
 				{
 					"title": "Северный",
 					"text": "Mitä ruatta? / Mitä ruat?",
-					"audios": []
+					"audios": ["/content/audio/1/2/1/сев (5).mp3"]
 				}
 			]
 		}
