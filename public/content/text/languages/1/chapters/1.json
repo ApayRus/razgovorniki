@@ -1,36 +1,529 @@
 {
 	"id": "1",
-	"title": "Приветствие и знакомство",
+	"title": "1. Приветствие и знакомство",
 	"phrases": [
 		{
-			"id": "1",
-			"translation": "как дела?",
+			"translation": "здравствуйте, привет",
 			"dialects": [
 				{
-					"title": "Тверской",
-					"text": "kuin aziet?",
-					"audios": ["/content/audio/1/1/1/1.4т.mp3"]
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.1t.mp3"],
+					"text": "terveh"
 				},
 				{
-					"title": "Северный",
-					"text": "Kuin šie elät?",
-					"audios": ["/content/audio/1/2/1/сев (4).mp3"]
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.1s.mp3"],
+					"text": "Terveh"
 				}
 			]
 		},
 		{
-			"id": "2",
-			"translation": "что делаете/что делаешь?",
+			"translation": "здравствуйте вам",
 			"dialects": [
 				{
-					"title": "Тверской",
-					"text": "midä ruatta?/ midä ruat?",
-					"audios": ["/content/audio/1/1/1/1.5т.mp3"]
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.2t.mp3"],
+					"text": "terveh teilä"
 				},
 				{
-					"title": "Северный",
-					"text": "Mitä ruatta? / Mitä ruat?",
-					"audios": ["/content/audio/1/2/1/сев (5).mp3"]
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.2s.mp3"],
+					"text": "Terveh teilä"
+				}
+			]
+		},
+		{
+			"translation": "ну что?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.3t.mp3"],
+					"text": "nu midä? "
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.3s.mp3"],
+					"text": "No, mitä kuuluu?"
+				}
+			]
+		},
+		{
+			"translation": "как дела?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.4t.mp3"],
+					"text": "kuin aziet?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.4s.mp3"],
+					"text": "Kuin šie elät?"
+				}
+			]
+		},
+		{
+			"translation": "что делаете? / Что делаешь?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.5t.mp3"],
+					"text": "midä ruatta?/ midä ruat?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.5s.mp3"],
+					"text": "Mitä ruatta? / Mitä ruat?"
+				}
+			]
+		},
+		{
+			"translation": "ну как живёте?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.6t.mp3"],
+					"text": "nu kuin elättä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.6s.mp3"],
+					"text": "Kuin elät? / Kuin elättä?"
+				}
+			]
+		},
+		{
+			"translation": "живёте потихоньку?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.7t.mp3"],
+					"text": "elättägo hil’l’akkaziin?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.7s.mp3"],
+					"text": "Hil'l'akkaisehko elättä?"
+				}
+			]
+		},
+		{
+			"translation": "здоров ли ты?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.8t.mp3"],
+					"text": "oletgo terveh?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.8s.mp3"],
+					"text": "Oletko terveh? Voitko hyvin?"
+				}
+			]
+		},
+		{
+			"translation": "твоя мать здорова?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.9t.mp3"],
+					"text": "ongo muamoš terveh?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.9s.mp3"],
+					"text": "Onko muamoš terveh?"
+				}
+			]
+		},
+		{
+			"translation": "как мать?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.10t.mp3"],
+					"text": "kuinbua muamo?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.10s.mp3"],
+					"text": "Kuinpa muamoš voit?"
+				}
+			]
+		},
+		{
+			"translation": "как тебя зовут?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.11t.mp3"],
+					"text": "kuin šilma kučutah?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.11s.mp3"],
+					"text": "Kuin šilma kučutah?"
+				}
+			]
+		},
+		{
+			"translation": "меня зовут Маша",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.12t.mp3"],
+					"text": "milma kučutah Maša"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.12s.mp3"],
+					"text": "Milma kučutah Maikki"
+				}
+			]
+		},
+		{
+			"translation": "какого ты рода?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.13t.mp3"],
+					"text": "kenen olet?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.13s.mp3"],
+					"text": "Mi šukuo olet?"
+				}
+			]
+		},
+		{
+			"translation": "Смородов",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.14t.mp3"],
+					"text": "Smorodovan"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.14s.mp3"],
+					"text": "Olen Smorodovin šukuo"
+				}
+			]
+		},
+		{
+			"translation": "Ты откуда приехал?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.15t.mp3"],
+					"text": "mistä sie tuliit?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.15s.mp3"],
+					"text": "Mistä päin olet?"
+				}
+			]
+		},
+		{
+			"translation": "Из какой деревни?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.16t.mp3"],
+					"text": "mistä kyläštä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.16s.mp3"],
+					"text": "Mistä kyläštä olet?"
+				}
+			]
+		},
+		{
+			"translation": "Я из Твери",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.17t.mp3"],
+					"text": "mie olen Tveristä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.17s.mp3"],
+					"text": "Olen Tverin kaupunkista"
+				}
+			]
+		},
+		{
+			"translation": "Из какой далёкой земли ты, оказывается, приехал!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.18t.mp3"],
+					"text": "edähädä šie tuliit!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.18s.mp3"],
+					"text": "Kuin etähyätä tulit!"
+				}
+			]
+		},
+		{
+			"translation": "Надолго приехал?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.19t.mp3"],
+					"text": "viikokši go tuliit?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.19s.mp3"],
+					"text": "Kuin pitälti ajakši tulit?"
+				}
+			]
+		},
+		{
+			"translation": "Я приехал на месяц",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.20t.mp3"],
+					"text": "mie tuliin kuukši"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.20s.mp3"],
+					"text": "Ka kuukauvekši tulin"
+				}
+			]
+		},
+		{
+			"translation": "По каким-то делам приехал?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.21t.mp3"],
+					"text": "midä dielua tuliit?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.21s.mp3"],
+					"text": "Mitä hommie rupiet ruatamah?"
+				}
+			]
+		},
+		{
+			"translation": "Я приехал в гости",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.22t.mp3"],
+					"text": "mie tuliin gostih"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.22s.mp3"],
+					"text": "Mie tulin gostih"
+				}
+			]
+		},
+		{
+			"translation": "Я приехал по работе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.23t.mp3"],
+					"text": "mie tuliin ruaduo näh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.23s.mp3"],
+					"text": "Mie tulin ruatamah"
+				}
+			]
+		},
+		{
+			"translation": "Я жить приехал",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.24t.mp3"],
+					"text": "mie tuliin elämäh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.24s.mp3"],
+					"text": "Mie tulin elämäh"
+				}
+			]
+		},
+		{
+			"translation": "Ты женат?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.25t.mp3"],
+					"text": "oletgo šie naizissa?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.25s.mp3"],
+					"text": "Oletko šie naimisissa?"
+				}
+			]
+		},
+		{
+			"translation": "Ты замужем?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.26t.mp3"],
+					"text": "oletgo šie miehellä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.26s.mp3"],
+					"text": "Oletko miehellä?"
+				}
+			]
+		},
+		{
+			"translation": "Я (не) женат",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.27t.mp3"],
+					"text": "mie olen (en ole) naizissa"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.27s.mp3"],
+					"text": "Mie olen (en ole) naimisissa"
+				}
+			]
+		},
+		{
+			"translation": "Я (не) замужем",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.28t.mp3"],
+					"text": "mie olen (en ole) miehellä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.28s.mp3"],
+					"text": "Mie olen (en ole) miehellä"
+				}
+			]
+		},
+		{
+			"translation": "Дети есть?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.29t.mp3"],
+					"text": "ongo lašta?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.29s.mp3"],
+					"text": "Onko šiula lapši?"
+				}
+			]
+		},
+		{
+			"translation": "Да, есть/ нет",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.30t.mp3"],
+					"text": "da, on/ ei ole"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.30s.mp3"],
+					"text": "On/ei ole"
+				}
+			]
+		},
+		{
+			"translation": "до свидания! (говорит уходящий)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.31t.mp3"],
+					"text": "jiä tervehenä! Jiägiä tervehenä!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.31s.mp3"],
+					"text": "Jiäkyä tervehekši Hyväšti!"
+				}
+			]
+		},
+		{
+			"translation": "до свидания! (говорят уходящим)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.32t.mp3"],
+					"text": "mane tervehenä! Mängiä tervehenä!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.32s.mp3"],
+					"text": "Mänkyä tervehenä Hyväšti!"
+				}
+			]
+		},
+		{
+			"translation": "ещё раз приезжай",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.33t.mp3"],
+					"text": "tule vielä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.33s.mp3"],
+					"text": "Tule toičči"
+				}
+			]
+		},
+		{
+			"translation": "своим привет передавай",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.34t.mp3"],
+					"text": "šano tervehyttä omahizilla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.34s.mp3"],
+					"text": "Kerro tervehyisie omahisilla"
+				}
+			]
+		},
+		{
+			"translation": "Всего хорошего.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/1/1.35t.mp3"],
+					"text": "Kaikkie hyviä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/1/1.35s.mp3"],
+					"text": "Kaikkie hyvyä / Voikua hyvin"
 				}
 			]
 		}

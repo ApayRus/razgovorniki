@@ -1,0 +1,396 @@
+{
+	"id": "3",
+	"title": "3. Дела, занятия",
+	"phrases": [
+		{
+			"translation": "хлопоты, дела",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.1t.mp3"],
+					"text": "aziet"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.1s.mp3"],
+					"text": "hommat"
+				}
+			]
+		},
+		{
+			"translation": "я топлю баню",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.2t.mp3"],
+					"text": "mie lämmitän kylyö"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.2s.mp3"],
+					"text": "lämmittyä kylyö"
+				}
+			]
+		},
+		{
+			"translation": "я останусь на ночь",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.3t.mp3"],
+					"text": "mie jiän yökši"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.3s.mp3"],
+					"text": "jiähä yökši"
+				}
+			]
+		},
+		{
+			"translation": "Прошу к столу.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.4t.mp3"],
+					"text": "tulgua stolah"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.4s.mp3"],
+					"text": "Tule stolah"
+				}
+			]
+		},
+		{
+			"translation": "Я хотел(а) бы побывать в городе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.5t.mp3"],
+					"text": "Mie tahtoziin ajella linnah"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.5s.mp3"],
+					"text": "Haluosin käyvä kaupunkissa"
+				}
+			]
+		},
+		{
+			"translation": "Завтра я поеду в деревню",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.6t.mp3"],
+					"text": "huomena mie lähen kyläh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.6s.mp3"],
+					"text": "Huomena mie lähen kyläh"
+				}
+			]
+		},
+		{
+			"translation": "Где хозяин?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.7t.mp3"],
+					"text": "missä on izändä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.7s.mp3"],
+					"text": "Missä isäntä on?"
+				}
+			]
+		},
+		{
+			"translation": "Дрова колет. ",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.8t.mp3"],
+					"text": "halguo šärgöy"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.8s.mp3"],
+					"text": "Halkuo pilkkou"
+				}
+			]
+		},
+		{
+			"translation": "Вот он идет.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.9t.mp3"],
+					"text": "ka hiän kopittau"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.9s.mp3"],
+					"text": "Tuoššai tulou"
+				}
+			]
+		},
+		{
+			"translation": "Я в домашних хлопотах.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.10t.mp3"],
+					"text": "mie kodiruadoloida ruan"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.10s.mp3"],
+					"text": "Kotihommissa olen"
+				}
+			]
+		},
+		{
+			"translation": "Он на рыбалке",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.11t.mp3"],
+					"text": "hiän on ongittamašša kalua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.11s.mp3"],
+					"text": "Hiän on kalalla"
+				}
+			]
+		},
+		{
+			"translation": "Я в лесу",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.12t.mp3"],
+					"text": "mie olen mečäššä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.12s.mp3"],
+					"text": "Mie olen mečäššä"
+				}
+			]
+		},
+		{
+			"translation": "Мы за ягодами",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.13t.mp3"],
+					"text": "myö olemma marjašša"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.13s.mp3"],
+					"text": "Myö olemma marjašša"
+				}
+			]
+		},
+		{
+			"translation": "Вы за грибами",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.14t.mp3"],
+					"text": "työ oletta gribašša"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.14s.mp3"],
+					"text": "Työ oletta šieneššä"
+				}
+			]
+		},
+		{
+			"translation": "Ты на поле",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.15t.mp3"],
+					"text": "šie olet pellolla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.15s.mp3"],
+					"text": "Šie olet pellolla"
+				}
+			]
+		},
+		{
+			"translation": "Папа во дворе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.16t.mp3"],
+					"text": "tuatto on tanhuošša"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.16s.mp3"],
+					"text": "Tuatto on pihašša"
+				}
+			]
+		},
+		{
+			"translation": "Мама в избе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.17t.mp3"],
+					"text": "muamo on pertissä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.17s.mp3"],
+					"text": "Muamo on pirtissä"
+				}
+			]
+		},
+		{
+			"translation": "Сестра на учебе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.18t.mp3"],
+					"text": "čikko on opaššukšešša"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.18s.mp3"],
+					"text": "Čikko on opaššukšešša"
+				}
+			]
+		},
+		{
+			"translation": "Брат на работе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.19t.mp3"],
+					"text": "velli on ruavolla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.19s.mp3"],
+					"text": "Veikko on ruavošša"
+				}
+			]
+		},
+		{
+			"translation": "я на кружке",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.20t.mp3"],
+					"text": "mie olen kruužkalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.20s.mp3"],
+					"text": "Mie olen kerhošša"
+				}
+			]
+		},
+		{
+			"translation": "Собираемся на рыбалку.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.21t.mp3"],
+					"text": "šuorimma kalah"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.21s.mp3"],
+					"text": "Šuoriemma kalalla"
+				}
+			]
+		},
+		{
+			"translation": "Поедешь с нами на рыбалку?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.22t.mp3"],
+					"text": "lähet meinkena kalah?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.22s.mp3"],
+					"text": "Lähetkö meijän kera kalalla?"
+				}
+			]
+		},
+		{
+			"translation": "У меня другие планы.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.23t.mp3"],
+					"text": "miula on omat aziet / pluanat"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.23s.mp3"],
+					"text": "Miula on muita šuunnitelmie"
+				}
+			]
+		},
+		{
+			"translation": "Она шьет",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.24t.mp3"],
+					"text": "hiän ombelou"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.24s.mp3"],
+					"text": "Hiän ompelou"
+				}
+			]
+		},
+		{
+			"translation": "Ты вяжешь",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.25t.mp3"],
+					"text": "šie nieglot"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.25s.mp3"],
+					"text": "Šie tikutat"
+				}
+			]
+		},
+		{
+			"translation": "Он танцует и поет",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/3/3.26t.mp3"],
+					"text": "hiän tancuiččou da laulau"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/3/3.26s.mp3"],
+					"text": "Hiän tanššiu ta laulau"
+				}
+			]
+		}
+	]
+}

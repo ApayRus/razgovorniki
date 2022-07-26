@@ -1,0 +1,1161 @@
+{
+	"id": "5",
+	"title": "5. Путешествие",
+	"phrases": [
+		{
+			"translation": "Путешествие ",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.1t.mp3"],
+					"text": "Matkuššanda / matkuštamine"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.1s.mp3"],
+					"text": "matkuštelu56"
+				}
+			]
+		},
+		{
+			"translation": "путешествовать ",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.2t.mp3"],
+					"text": "matkuštua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.2s.mp3"],
+					"text": "matkata, matata, matkuštua"
+				}
+			]
+		},
+		{
+			"translation": "Ехать на машине",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.3t.mp3"],
+					"text": "ajua mašinalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.3s.mp3"],
+					"text": "Ajua autolla"
+				}
+			]
+		},
+		{
+			"translation": "путешествовать на поезде",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.4t.mp3"],
+					"text": "ajua pojezdalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.4s.mp3"],
+					"text": "matata junalla"
+				}
+			]
+		},
+		{
+			"translation": "лететь на самолете",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.5t.mp3"],
+					"text": "lendiä samol’otalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.5s.mp3"],
+					"text": "lentyä lentokonehella"
+				}
+			]
+		},
+		{
+			"translation": "попасть на корабле",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.6t.mp3"],
+					"text": "piäššä korablilla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.6s.mp3"],
+					"text": "piäššä laivalla"
+				}
+			]
+		},
+		{
+			"translation": "грести на лодке",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.7t.mp3"],
+					"text": "šoudua venehellä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.7s.mp3"],
+					"text": "šoutua venehellä"
+				}
+			]
+		},
+		{
+			"translation": "ждать автобус",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.8t.mp3"],
+					"text": "vuottua avtobusua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.8s.mp3"],
+					"text": "vuottua autobuššie"
+				}
+			]
+		},
+		{
+			"translation": "путник",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.9t.mp3"],
+					"text": "matkuštaja"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.9s.mp3"],
+					"text": "matkamieš, matkalaini"
+				}
+			]
+		},
+		{
+			"translation": "я увлекаюсь туризмом",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.10t.mp3"],
+					"text": "mie mielettelen turismua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.10s.mp3"],
+					"text": "harraššan turismie"
+				}
+			]
+		},
+		{
+			"translation": "я турист/ты турист?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.11t.mp3"],
+					"text": "mie olen turista / oletgo šie turista?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.11s.mp3"],
+					"text": "olen turisti/oletko turisti?"
+				}
+			]
+		},
+		{
+			"translation": "группа",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.12t.mp3"],
+					"text": "gruuppa"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.12s.mp3"],
+					"text": "ryhmä"
+				}
+			]
+		},
+		{
+			"translation": "гид/проводник",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.13t.mp3"],
+					"text": "giida / matkuttaja / šuattaja"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.13s.mp3"],
+					"text": "opaš, kulettaja, juohattaja"
+				}
+			]
+		},
+		{
+			"translation": "дача",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.14t.mp3"],
+					"text": "duačča"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.14s.mp3"],
+					"text": "dača, kešämökki"
+				}
+			]
+		},
+		{
+			"translation": "Что это за достопримечательность?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.15t.mp3"],
+					"text": "mi tämä nähtävvyš on?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.15s.mp3"],
+					"text": "Mi nähtävyyš tämä on?"
+				}
+			]
+		},
+		{
+			"translation": "арендовать авто/отель/комнату/квартиру",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.16t.mp3"],
+					"text": "vuograta mašina / oteli / perti / fatera"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.16s.mp3"],
+					"text": "vuokrata auto/hotelli/huoneh/korttieri"
+				}
+			]
+		},
+		{
+			"translation": "я заблудился",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.17t.mp3"],
+					"text": "mie yökšyin"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.17s.mp3"],
+					"text": "Olen ekšyn."
+				}
+			]
+		},
+		{
+			"translation": "не знаю где я",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.18t.mp3"],
+					"text": "en tiijä missä mie olen"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.18s.mp3"],
+					"text": "En tiijä missä olen"
+				}
+			]
+		},
+		{
+			"translation": "мне нужен путеводитель/аудиогид о музее/о выставке",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.19t.mp3"],
+					"text": "miula pidäy matkanvedäjä / audio- matkuttaja muzejah näh / kačondapaikkah näh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.19s.mp3"],
+					"text": "Mie tarvičen opaškirjasen/audio-oppahan musejošta/näyttelyštä "
+				}
+			]
+		},
+		{
+			"translation": "Когда начнется обзорная экскурсия по городу?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.20t.mp3"],
+					"text": "konža zavodiečou tiedomatka linnua myöt’?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.20s.mp3"],
+					"text": "Konša alkau kaupunkin kiertoajelu?"
+				}
+			]
+		},
+		{
+			"translation": "Какие достопримечательности есть в городе?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.21t.mp3"],
+					"text": "Mittynäzet nähtävvykšet ollah linnašša?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.21s.mp3"],
+					"text": "Mimmosie nähtävyykšie on kaupunkissa?"
+				}
+			]
+		},
+		{
+			"translation": "Где центральная площадь?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.22t.mp3"],
+					"text": "Missä on linnan keškipaikka?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.22s.mp3"],
+					"text": "Missä on keškušaukijo?"
+				}
+			]
+		},
+		{
+			"translation": "Музей ИЗО",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.23t.mp3"],
+					"text": "kuvaammattimuzeja"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.23s.mp3"],
+					"text": "kuvataitomusejo"
+				}
+			]
+		},
+		{
+			"translation": "памятник рунопевцам",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.24t.mp3"],
+					"text": "muistopačaš runonlaulailla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.24s.mp3"],
+					"text": "runonlaulajien muistomerkki, muistopačaš"
+				}
+			]
+		},
+		{
+			"translation": "концертный зал/филармония",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.25t.mp3"],
+					"text": "koncertazuala / filarmonija"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.25s.mp3"],
+					"text": "konšerttišali/filarmonija"
+				}
+			]
+		},
+		{
+			"translation": "церковь/часовня",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.26t.mp3"],
+					"text": "kirikkö / časoun’a"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.26s.mp3"],
+					"text": "kirikkö/časoun'a"
+				}
+			]
+		},
+		{
+			"translation": "библиотека",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.27t.mp3"],
+					"text": "bibl’otekka"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.27s.mp3"],
+					"text": "kirjašto"
+				}
+			]
+		},
+		{
+			"translation": "центральный рынок",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.28t.mp3"],
+					"text": "keškilaukka"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.28s.mp3"],
+					"text": "keškušpasari"
+				}
+			]
+		},
+		{
+			"translation": "музей под открытым небом",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.29t.mp3"],
+					"text": "augieilmamuzeja"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.29s.mp3"],
+					"text": "luontomusejo"
+				}
+			]
+		},
+		{
+			"translation": "театр",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.30t.mp3"],
+					"text": "teatra"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.30s.mp3"],
+					"text": "teatteri"
+				}
+			]
+		},
+		{
+			"translation": "парк",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.31t.mp3"],
+					"text": "parka / puisto"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.31s.mp3"],
+					"text": "puisto/huvotušpuisto"
+				}
+			]
+		},
+		{
+			"translation": "набережная",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.32t.mp3"],
+					"text": "jogiranda / jogiuuličča"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.32s.mp3"],
+					"text": "rantakatu"
+				}
+			]
+		},
+		{
+			"translation": "фестиваль",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.33t.mp3"],
+					"text": "festivali"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.33s.mp3"],
+					"text": "festivali"
+				}
+			]
+		},
+		{
+			"translation": "кафе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.34t.mp3"],
+					"text": "kafe / kafeška"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.34s.mp3"],
+					"text": "kahvila"
+				}
+			]
+		},
+		{
+			"translation": "ресторан",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.35t.mp3"],
+					"text": "restoruana / paraššyöndäpaikka / ravintola"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.35s.mp3"],
+					"text": "ravintola"
+				}
+			]
+		},
+		{
+			"translation": "туалет",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.36t.mp3"],
+					"text": "ubornoi"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.36s.mp3"],
+					"text": "vešša"
+				}
+			]
+		},
+		{
+			"translation": "когда поедешь на дачу?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.37t.mp3"],
+					"text": "konža šie lähet duačalla?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.37s.mp3"],
+					"text": "konša šie lähet dačalla"
+				}
+			]
+		},
+		{
+			"translation": "Возьми меня с собой, если других попутчиков не будет",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.38t.mp3"],
+					"text": "ota milma keralla kuin ei lie toista matkuštajua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.38s.mp3"],
+					"text": "Ota miut, još ei tule muita matkalaisie."
+				}
+			]
+		},
+		{
+			"translation": "я еще не решила поеду ли на велосипеде или пойду пешком",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.39t.mp3"],
+					"text": "mie en vielä rohkuačen: lähen mie velos’pedalla ajamah ali lähen jalgaziin"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.39s.mp3"],
+					"text": "mie en ole vielä piättän, ajanko mie pyörällä vai lähen aštumalla"
+				}
+			]
+		},
+		{
+			"translation": "А твой папа не сможет подвезти нас?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.40t.mp3"],
+					"text": "eigo šiun tuatto voičče meidä viijä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.40s.mp3"],
+					"text": "Eikö šiun tuattoš vois viijä?"
+				}
+			]
+		},
+		{
+			"translation": "Они договорились с друзьями/гидом/турфирмой",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.41t.mp3"],
+					"text": "hyö paistih tovarissoinke, giidanke / matkuttajanke, turfirmanke"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.41s.mp3"],
+					"text": "hyö šovittih yštävien/oppahan/turismifirman kera"
+				}
+			]
+		},
+		{
+			"translation": "их ждет гид",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.42t.mp3"],
+					"text": "heidä vuottau giida / matkuttaja"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.42s.mp3"],
+					"text": "heitä vuottau opaš"
+				}
+			]
+		},
+		{
+			"translation": "Гид будет сопровождать их",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.43t.mp3"],
+					"text": "giida / matkuttaja rubieu heidä šuattelomah"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.43s.mp3"],
+					"text": "Opaš rupieu šuattamah heitä"
+				}
+			]
+		},
+		{
+			"translation": "во время поездки",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.44t.mp3"],
+					"text": "matkan aijalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.44s.mp3"],
+					"text": "matan aikana/matašša"
+				}
+			]
+		},
+		{
+			"translation": "центр",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.45t.mp3"],
+					"text": "keškikohta"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.45s.mp3"],
+					"text": "keškušta"
+				}
+			]
+		},
+		{
+			"translation": "адрес",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.46t.mp3"],
+					"text": "adressu"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.46s.mp3"],
+					"text": "adressi, ošoiteh"
+				}
+			]
+		},
+		{
+			"translation": "вперед",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.47t.mp3"],
+					"text": "edeh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.47s.mp3"],
+					"text": "eteh päin"
+				}
+			]
+		},
+		{
+			"translation": "прямо",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.48t.mp3"],
+					"text": "kohaldi"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.48s.mp3"],
+					"text": "šuorah"
+				}
+			]
+		},
+		{
+			"translation": "довольно далеко",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.49t.mp3"],
+					"text": "edähköh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.49s.mp3"],
+					"text": "melko etähänä"
+				}
+			]
+		},
+		{
+			"translation": "очень близко",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.50t.mp3"],
+					"text": "ylen läššä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.50s.mp3"],
+					"text": "hyvin lähellä"
+				}
+			]
+		},
+		{
+			"translation": "издалека",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.51t.mp3"],
+					"text": "edähädä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.51s.mp3"],
+					"text": "etähyätä"
+				}
+			]
+		},
+		{
+			"translation": "ближе",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.52t.mp3"],
+					"text": "lähembiänä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.52s.mp3"],
+					"text": "lähempänä"
+				}
+			]
+		},
+		{
+			"translation": "тут",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.53t.mp3"],
+					"text": "tiälä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.53s.mp3"],
+					"text": "tiälä"
+				}
+			]
+		},
+		{
+			"translation": "назад",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.54t.mp3"],
+					"text": "järelläh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.54s.mp3"],
+					"text": "tuakše päin"
+				}
+			]
+		},
+		{
+			"translation": "стой на своем месте",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.55t.mp3"],
+					"text": "šeizo omalla paikalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.55s.mp3"],
+					"text": "šeiso paikallaš"
+				}
+			]
+		},
+		{
+			"translation": "надо ехать/идти",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.56t.mp3"],
+					"text": "pidäy ajua/ kopittua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.56s.mp3"],
+					"text": "pitäy ajua/aštuo"
+				}
+			]
+		},
+		{
+			"translation": "повернуть налево/направо",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.57t.mp3"],
+					"text": "kiändiä važameh / oigieh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.57s.mp3"],
+					"text": "kiäntyö vašemmalla/oikiella"
+				}
+			]
+		},
+		{
+			"translation": "добраться до места",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.58t.mp3"],
+					"text": "doidie paikkah šuat"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.58s.mp3"],
+					"text": "piäššä perillä"
+				}
+			]
+		},
+		{
+			"translation": "заблудиться",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.59t.mp3"],
+					"text": "yökšyö"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.59s.mp3"],
+					"text": "ekšyö"
+				}
+			]
+		},
+		{
+			"translation": "пойти в обратном направлении",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.60t.mp3"],
+					"text": "lähtie järelläh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.60s.mp3"],
+					"text": "lähtie päinvaštaseh šuuntah"
+				}
+			]
+		},
+		{
+			"translation": "спросить помощь",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.61t.mp3"],
+					"text": "kyžyö abuo"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.61s.mp3"],
+					"text": "kyšyö apuo"
+				}
+			]
+		},
+		{
+			"translation": "что это за улица",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.62t.mp3"],
+					"text": "mi tämä uuličča on? mi tämä piha on?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.62s.mp3"],
+					"text": "Mi piha tämä on?"
+				}
+			]
+		},
+		{
+			"translation": "Как мне попасть на выставку",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.63t.mp3"],
+					"text": "kuin miula piäššä kačondapaikkah?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.63s.mp3"],
+					"text": "Mitein mie piäšen näyttelyh?"
+				}
+			]
+		},
+		{
+			"translation": "Поезжай вперед по этой улице",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.64t.mp3"],
+					"text": "aja edeh tädä pihua myöt’"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.64s.mp3"],
+					"text": "Aja šuorah tätä katuo myöten"
+				}
+			]
+		},
+		{
+			"translation": "посмотри по карте/в телефоне где этот отель_",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.65t.mp3"],
+					"text": "kačo kartašta / telefonašta missä on tämä hoteli"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.65s.mp3"],
+					"text": "Kačo šie kartašta/telefonista missä on hotelli?"
+				}
+			]
+		},
+		{
+			"translation": "отсюда мы не попадем к нему",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.66t.mp3"],
+					"text": "täštä myö emmä popadi hänen luoh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.66s.mp3"],
+					"text": "tiältä myö emmä piäše šen eteh"
+				}
+			]
+		},
+		{
+			"translation": "издалека не видно",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.67t.mp3"],
+					"text": "edähädä ei nävy"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.67s.mp3"],
+					"text": "etähyätä šitä ei nävy"
+				}
+			]
+		},
+		{
+			"translation": "прибыли на место",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.68t.mp3"],
+					"text": "tulima paikalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.68s.mp3"],
+					"text": "Piäsimä perillä."
+				}
+			]
+		},
+		{
+			"translation": "надо у кого-нибудь спросить",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.69t.mp3"],
+					"text": "pidäy kyžyö kel’däigi"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.69s.mp3"],
+					"text": "Pitäy kyšyö keltä lienöy"
+				}
+			]
+		},
+		{
+			"translation": "На чем попасть в Карелию?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.70t.mp3"],
+					"text": "millä popadie Karielah?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.70s.mp3"],
+					"text": "Millä piäšöy Karjalah?"
+				}
+			]
+		},
+		{
+			"translation": "Это далеко?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.71t.mp3"],
+					"text": "tämä ongo edähänä?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.71s.mp3"],
+					"text": "Onko še etähänä? Onko šinne pitkä matka?"
+				}
+			]
+		},
+		{
+			"translation": "Пойти в поход.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.72t.mp3"],
+					"text": "lähtie kävelykšeh"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.72s.mp3"],
+					"text": "Lähtie retkeh"
+				}
+			]
+		},
+		{
+			"translation": "собраться на пикник",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.73t.mp3"],
+					"text": "keräydyö piknikalla"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.73s.mp3"],
+					"text": "Šuoriutuo piknikillä"
+				}
+			]
+		},
+		{
+			"translation": "уехать в этнолагерь",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.74t.mp3"],
+					"text": "ajua etnoluagerih"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.74s.mp3"],
+					"text": "Ajua etnoleirih"
+				}
+			]
+		},
+		{
+			"translation": "путешествие в горы",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.75t.mp3"],
+					"text": "matkuštamine gorih / vuorih"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.75s.mp3"],
+					"text": "Vuorimatka"
+				}
+			]
+		},
+		{
+			"translation": "сплав по реке",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.76t.mp3"],
+					"text": "jogimatkuštamine"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.76s.mp3"],
+					"text": "jokimatkuštamini"
+				}
+			]
+		},
+		{
+			"translation": "водное путешествие",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/5/5.77t.mp3"],
+					"text": "vezimatkuštamine"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/5/5.77s.mp3"],
+					"text": "vesimatka"
+				}
+			]
+		}
+	]
+}
