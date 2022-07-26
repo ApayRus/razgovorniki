@@ -1,0 +1,31 @@
+.dialect {
+	display: flex;
+	align-items: center;
+}
+
+.dialectTitle {
+	color: grey;
+	font-size: 70%;
+	margin-bottom: -0.5rem;
+	margin-left: 0.5rem;
+}
+
+.original {
+	/* margin-top: 0.5rem; */
+}
+
+.originalPhrase {
+	margin-left: 0.5rem;
+}
+
+.translation {
+	margin-bottom: 0.5rem;
+}
+
+.phrase {
+	max-width: 100%;
+}
+
+.phrase:hover {
+	color: unset;
+}

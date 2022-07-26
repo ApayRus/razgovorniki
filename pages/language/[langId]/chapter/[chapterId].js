@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Phrase from '../../../../components/Phrase'
 import { getChapterContent, getLangInfo } from '../../../../utils/api'
 
 export default function LanguagePage(props) {
@@ -18,8 +19,8 @@ export default function LanguagePage(props) {
 			</h1>
 			{/* <p>{description}</p> */}
 			{phrases.map((phrase, index) => {
-				const { id, translation } = phrase
-				return <div>{`${index + 1}. ${translation}`}</div>
+				const phraseProps = { ...phrase, index }
+				return <Phrase {...phraseProps} key={`phrase-${index}`} />
 			})}
 		</div>
 	)

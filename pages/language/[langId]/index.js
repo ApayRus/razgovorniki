@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import ChapterList from '../../../components/ChapterList'
 import { getLangChapters, getLangInfo } from '../../../utils/api'
 
 export default function LanguagePage(props) {
@@ -8,14 +8,7 @@ export default function LanguagePage(props) {
 		<div>
 			<h2>{title}</h2>
 			<p>{description}</p>
-			{chapters.map(chapter => {
-				const { id, title } = chapter
-				return (
-					<Link href={`${langId}/chapter/${id}`}>
-						<div>{title}</div>
-					</Link>
-				)
-			})}
+			<ChapterList chapters={chapters} langId={langId} />
 		</div>
 	)
 }
