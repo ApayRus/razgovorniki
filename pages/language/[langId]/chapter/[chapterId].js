@@ -1,11 +1,12 @@
 import Link from 'next/link'
 import Phrase from '../../../../components/Phrase'
 import { getChapterContent, getLangInfo } from '../../../../utils/api'
+import fs from 'fs'
 
 export default function LanguagePage(props) {
 	const {
 		langId,
-		chapterId,
+		// chapterId,
 		title,
 		// description,
 		phrases,
@@ -14,9 +15,10 @@ export default function LanguagePage(props) {
 
 	return (
 		<div>
-			<h1>
-				{title} ({langInfo.title})
-			</h1>
+			<Link href={`/language/${langId}`}>
+				<div>&larr; {langInfo.title}</div>
+			</Link>
+			<h1>{title}</h1>
 			{/* <p>{description}</p> */}
 			{phrases.map((phrase, index) => {
 				const phraseProps = { ...phrase, index }
@@ -45,11 +47,24 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
+	const basicPath = './public/content/text'
+	const langs = fs.readdirSync(`${basicPath}/languages`)
+	const contentMap = langs.map(langId => {
+		const chapters = fs
+			.readdirSync(`${basicPath}/languages/${langId}/chapters`)
+			.map(elem => elem.replace(/.json$/, ''))
+		return { langId, chapters }
+	})
+
+	const paths = contentMap
+		.map(lang => {
+			const { langId, chapters } = lang
+			return chapters.map(chapterId => ({ params: { langId, chapterId } }))
+		})
+		.flat()
+
 	return {
-		paths: [
-			{ params: { langId: '1', chapterId: '1' } },
-			{ params: { langId: '1', chapterId: '2' } }
-		],
+		paths,
 		fallback: false // can also be true or 'blocking'
 	}
 }
