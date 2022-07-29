@@ -46,3 +46,9 @@
 .card:active {
 	border-color: #0070f3;
 }
+
+@media (prefers-color-scheme: dark) {
+	.audioIcon {
+		color: white;
+	}
+}

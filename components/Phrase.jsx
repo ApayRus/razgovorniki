@@ -28,7 +28,7 @@ export default function Phrase(props) {
 											onClick={playAudio(path)}
 											key={`audio-${dialectIndex}-${audioIndex}`}
 										>
-											<PlayIcon />
+											<PlayIcon className={styles.audioIcon} />
 										</IconButton>
 									)
 								})}
