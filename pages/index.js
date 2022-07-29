@@ -5,6 +5,7 @@ import { getSiteInfo } from '../utils/api'
 import styles from '../styles/HomePage.module.css'
 import { Typography } from '@mui/material'
 import pageStyles from '../styles/Page.module.css'
+import Drawer from '../components/Drawer'
 
 export default function Home(props) {
 	const { langList, teamList, siteTitle, siteDescription } = props
@@ -36,6 +37,11 @@ export default function Home(props) {
 					</div>
 				</section>
 			</main>
+			<Drawer>
+				<div style={{ width: 200, height: 200, backgroundColor: 'red' }}>
+					I'm drawer!!!
+				</div>
+			</Drawer>
 		</Layout>
 	)
 }
