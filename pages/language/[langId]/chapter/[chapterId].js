@@ -10,7 +10,7 @@ import ChapterList from '../../../../components/ChapterList'
 export default function LanguagePage(props) {
 	const {
 		langId,
-		// chapterId,
+		chapterId,
 		title,
 		// description,
 		phrases: phrasesList,
@@ -26,8 +26,8 @@ export default function LanguagePage(props) {
 	const phrases = phrasesList.map((phrase, index) => {
 		const phraseProps = { ...phrase, index }
 		return (
-			<div className={styles.phraseContainer}>
-				<Phrase {...phraseProps} key={`phrase-${index}`} />
+			<div className={styles.phraseContainer} key={`phrase-${index}`}>
+				<Phrase {...phraseProps} />
 			</div>
 		)
 	})
@@ -51,7 +51,11 @@ export default function LanguagePage(props) {
 					<div className={styles.phrasesContainer}>{phrases}</div>
 					<div className={styles.chaptersContainer}>
 						<h2>Главы</h2>
-						<ChapterList langId={langId} chapters={langInfo.chapters} />
+						<ChapterList
+							langId={langId}
+							chapterId={chapterId}
+							chapters={langInfo.chapters}
+						/>
 					</div>
 				</div>
 			</main>

@@ -2,7 +2,7 @@ import { List, ListItem, ListItemText, ListItemButton } from '@mui/material'
 import Link from 'next/link'
 
 export default function ChapterList(props) {
-	const { chapters, langId } = props
+	const { chapters, langId, chapterId } = props
 
 	return (
 		<List>
@@ -13,8 +13,8 @@ export default function ChapterList(props) {
 						href={`/language/${langId}/chapter/${id}`}
 						key={`chapter-${index}`}
 					>
-						<ListItem disablePadding>
-							<ListItemButton>
+						<ListItem disablePadding selected={chapterId === id ? true : false}>
+							<ListItemButton color='primary'>
 								<ListItemText primary={title} />
 							</ListItemButton>
 						</ListItem>
