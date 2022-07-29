@@ -6,7 +6,7 @@ import styles from '../../../styles/LanguagePage.module.css'
 import pageStyles from '../../../styles/Page.module.css'
 
 export default function LanguagePage(props) {
-	const { langId, chapters, title, description } = props
+	const { langId = '', chapters = [], title = '', description = '' } = props
 
 	const meta = {
 		title,
@@ -37,7 +37,7 @@ export default function LanguagePage(props) {
 
 export async function getStaticProps(context) {
 	const {
-		params: { langId }
+		params: { langId = '' }
 	} = context
 	const langInfo = await getLangInfo(langId)
 	const { title, description, chapters } = langInfo

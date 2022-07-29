@@ -4,7 +4,7 @@ import styles from './Layout.module.css'
 import Navigation from './Navigation'
 
 export default function Layout(props) {
-	const { children, meta } = props
+	const { children = null, meta = {} } = props
 
 	return (
 		<>

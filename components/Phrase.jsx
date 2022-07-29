@@ -3,7 +3,7 @@ import styles from './Phrase.module.css'
 import { PlayCircleOutlineOutlined as PlayIcon } from '@mui/icons-material'
 
 export default function Phrase(props) {
-	const { index, id, translation, dialects } = props
+	const { index = 0, id = '', translation = '', dialects = [] } = props
 
 	const playAudio = path => () => {
 		const audio = new Audio(path)

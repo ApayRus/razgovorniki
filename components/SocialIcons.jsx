@@ -3,7 +3,7 @@ import TwitterIcon from '@mui/icons-material/Twitter'
 import InstagramIcon from '@mui/icons-material/Instagram'
 
 export default function SocialIcons(props) {
-	const { color } = props
+	const { color = '' } = props
 	return (
 		<>
 			<IconButton aria-label='menu' color={color}>

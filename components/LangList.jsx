@@ -2,7 +2,7 @@ import Link from 'next/link'
 import styles from '../styles/HomePage.module.css'
 
 export default function LangList(props) {
-	const { langs } = props
+	const { langs = '' } = props
 
 	return langs.map((lang, index) => {
 		const { title, description, id } = lang

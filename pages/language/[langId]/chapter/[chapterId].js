@@ -9,12 +9,12 @@ import ChapterList from '../../../../components/ChapterList'
 
 export default function LanguagePage(props) {
 	const {
-		langId,
-		chapterId,
-		title,
+		langId = '',
+		chapterId = '',
+		title = '',
 		// description,
-		phrases: phrasesList,
-		langInfo
+		phrases: phrasesList = [],
+		langInfo = {}
 	} = props
 
 	const meta = {
@@ -65,7 +65,7 @@ export default function LanguagePage(props) {
 
 export async function getStaticProps(context) {
 	const {
-		params: { langId, chapterId }
+		params: { langId = '', chapterId = '' }
 	} = context
 
 	const chapterContent = await getChapterContent(langId, chapterId)

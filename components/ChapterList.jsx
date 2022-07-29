@@ -2,7 +2,7 @@ import { List, ListItem, ListItemText, ListItemButton } from '@mui/material'
 import Link from 'next/link'
 
 export default function ChapterList(props) {
-	const { chapters, langId, chapterId } = props
+	const { chapters = [], langId = '', chapterId = '' } = props
 
 	return (
 		<List>

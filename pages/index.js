@@ -8,7 +8,12 @@ import pageStyles from '../styles/Page.module.css'
 import Drawer from '../components/Drawer'
 
 export default function Home(props) {
-	const { langList, teamList, siteTitle, siteDescription } = props
+	const {
+		langList = [],
+		teamList = [],
+		siteTitle = '',
+		siteDescription = ''
+	} = props
 	const meta = {
 		title: siteTitle,
 		description: siteDescription,
