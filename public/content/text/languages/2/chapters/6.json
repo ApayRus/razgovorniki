@@ -1,0 +1,861 @@
+{
+	"id": "6",
+	"title": "6. Приготовление пищи, трапеза",
+	"phrases": [
+		{
+			"translation": "Что сегодня будем готовить?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.1t.mp3"],
+					"text": "midä tänäpiänä rubiemma varuštamah?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.1s.mp3"],
+					"text": "Mitä rupiemma keittämäh tänäpiänä?"
+				}
+			]
+		},
+		{
+			"translation": "Сегодня суп сварим.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.2t.mp3"],
+					"text": "tänäpiänä keitämmä rokkua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.2s.mp3"],
+					"text": "Tänäpiänä keitämmä keittuo."
+				}
+			]
+		},
+		{
+			"translation": "Рыбу сварим / рыбу пожарим.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.3t.mp3"],
+					"text": "kalua keitämmä / kalua žuarimma"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.3s.mp3"],
+					"text": "Keitämmä kalua/suarimma kalua"
+				}
+			]
+		},
+		{
+			"translation": "Мясо сварим.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.4t.mp3"],
+					"text": "keitämmä lihua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.4s.mp3"],
+					"text": "Keitämmä lihua."
+				}
+			]
+		},
+		{
+			"translation": "Ты поставил кастрюлю на печку?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.5t.mp3"],
+					"text": "šie paniit kostr’ul’an kiugualla?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.5s.mp3"],
+					"text": "Panitko šie kattilan kiukualla?"
+				}
+			]
+		},
+		{
+			"translation": "Воду налил в кастрюлю? - Налил.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.6t.mp3"],
+					"text": "vettä paniit kostr’ul’ah? – paniin."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.6s.mp3"],
+					"text": "Kuavoitko vettä kattilah? Kuavoin."
+				}
+			]
+		},
+		{
+			"translation": "Я картошку почистил.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.7t.mp3"],
+					"text": "mie kuoritiin muajuablokkua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.7s.mp3"],
+					"text": "Mie kuorin potakkua."
+				}
+			]
+		},
+		{
+			"translation": "Рыбу нарезала.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.8t.mp3"],
+					"text": "leikkain palaziksi kalan"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.8s.mp3"],
+					"text": "Mie leikkasin kalua. "
+				}
+			]
+		},
+		{
+			"translation": "Посоли (воду в кастрюле).",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.9t.mp3"],
+					"text": "šuolua (vettä kostr’ul’ašša)"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.9s.mp3"],
+					"text": "Pane šuolua veteh / Šuolua vettä kattilašša"
+				}
+			]
+		},
+		{
+			"translation": "Тесто поставь (намешай).",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.10t.mp3"],
+					"text": "šeizota tahaš"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.10s.mp3"],
+					"text": "Pane taikinua"
+				}
+			]
+		},
+		{
+			"translation": "Немножко соли не хватает",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.11t.mp3"],
+					"text": "vähäzen šuolua ei fatai"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.11s.mp3"],
+					"text": "Vielä vähäsen šuolua ei riitä"
+				}
+			]
+		},
+		{
+			"translation": "Многовато соли положила",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.12t.mp3"],
+					"text": "äijäzen šuolua paniit"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.12s.mp3"],
+					"text": "Liian äijyä šuolua panit"
+				}
+			]
+		},
+		{
+			"translation": "Поставь хлеб в печку!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.13t.mp3"],
+					"text": "pane leibä kiuguah!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.13s.mp3"],
+					"text": "Pane leipyä kiukuah"
+				}
+			]
+		},
+		{
+			"translation": "Ждем когда испечется.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.14t.mp3"],
+					"text": "vuotamma konža paistuu."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.14s.mp3"],
+					"text": "Vuotamma, konša leipä on valmis"
+				}
+			]
+		},
+		{
+			"translation": "Хлеб испечется, с горячим хлебом суп будем кушать.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.15t.mp3"],
+					"text": "leibä paistuu, palavanke leivänke rubiemma šyömäh rokkua."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.15s.mp3"],
+					"text": "Leipä on valmis, rupiemma šyömäh šitä kuuman keiton kera"
+				}
+			]
+		},
+		{
+			"translation": "В следующий раз суп сварим.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.16t.mp3"],
+					"text": "Toizeh kerdah keitämmä rokan."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.16s.mp3"],
+					"text": "Enši kertua keitämmä rokkua"
+				}
+			]
+		},
+		{
+			"translation": "Мясо опустим в кастрюлю, пусть поварится.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.17t.mp3"],
+					"text": "panemma liha kostr’ul’ah, ana keittyy."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.17s.mp3"],
+					"text": "Panemma lihua kattilah, anna keittyy"
+				}
+			]
+		},
+		{
+			"translation": "Немножко пусть поварится – потом опускаем картошку.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.18t.mp3"],
+					"text": "vähäzen ana keittyy, šidä panemma muajuablokan"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.18s.mp3"],
+					"text": "Anna še vähäsen keittyy, šiitä panemma potakkua"
+				}
+			]
+		},
+		{
+			"translation": "Потом лапшу и лук опускаем.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.19t.mp3"],
+					"text": "šidä panemma makaronua da luukkua."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.19s.mp3"],
+					"text": "Šiitä panemma makaronie ta luukkuo"
+				}
+			]
+		},
+		{
+			"translation": "Еще немного поварится, и готово!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.20t.mp3"],
+					"text": "vielä vähäzen keityy da i valmis’!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.20s.mp3"],
+					"text": "Anna še vielä vähäsen kiehuu ta on valmis"
+				}
+			]
+		},
+		{
+			"translation": "Дети, идите кушать!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.21t.mp3"],
+					"text": "lapšet, tulgua šyömäh!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.21s.mp3"],
+					"text": "Lapšet, tulkua šyömäh"
+				}
+			]
+		},
+		{
+			"translation": "Спасибо!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.22t.mp3"],
+					"text": "passibo!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.22s.mp3"],
+					"text": "Passipo!"
+				}
+			]
+		},
+		{
+			"translation": "Суп вкусный!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.23t.mp3"],
+					"text": "magie rokka!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.23s.mp3"],
+					"text": "Kuin rokka on makie!"
+				}
+			]
+		},
+		{
+			"translation": "Как хорошо! Спасибо!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.24t.mp3"],
+					"text": "kuin hyviin! Passibo!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.24s.mp3"],
+					"text": "Kuin hyvin on, passipo!"
+				}
+			]
+		},
+		{
+			"translation": "Как я наелась/ся!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.25t.mp3"],
+					"text": "Kuin mie kylläššyin!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.25s.mp3"],
+					"text": "Kuin mie kylläššyin!"
+				}
+			]
+		},
+		{
+			"translation": "Ой как вкусно было!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.26t.mp3"],
+					"text": "kuin oli magie!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.26s.mp3"],
+					"text": "Voi, kuin makie oli!"
+				}
+			]
+		},
+		{
+			"translation": "Мне еще супу налей!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.27t.mp3"],
+					"text": "Pane miula vielä rokkua!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.27s.mp3"],
+					"text": "Pane miula vielä rokkua"
+				}
+			]
+		},
+		{
+			"translation": "иди руки помой!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.28t.mp3"],
+					"text": "mäne peže kiät!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.28s.mp3"],
+					"text": "Mäne ta peše kiät!"
+				}
+			]
+		},
+		{
+			"translation": "Иди садись!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.29t.mp3"],
+					"text": "mäne istuoče!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.29s.mp3"],
+					"text": "Mäne ta issu!"
+				}
+			]
+		},
+		{
+			"translation": "Иди помоги стол накрыть.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.30t.mp3"],
+					"text": "mäne auta stolalla šyömizet panna!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.30s.mp3"],
+					"text": "Tule auttamah stolua kattuamah"
+				}
+			]
+		},
+		{
+			"translation": "Кушай!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.31t.mp3"],
+					"text": "šyö!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.31s.mp3"],
+					"text": "Šyö"
+				}
+			]
+		},
+		{
+			"translation": "Суп горячий!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.32t.mp3"],
+					"text": "rokka palava"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.32s.mp3"],
+					"text": "Rokka on palava"
+				}
+			]
+		},
+		{
+			"translation": "Соль принеси.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.33t.mp3"],
+					"text": "tuo šuolua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.33s.mp3"],
+					"text": "Tuo šuolua"
+				}
+			]
+		},
+		{
+			"translation": "Принеси / подай соль.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.34t.mp3"],
+					"text": "tuo/annalla šuolua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.34s.mp3"],
+					"text": "Tua/anna šuolua"
+				}
+			]
+		},
+		{
+			"translation": "Сахар подай.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.35t.mp3"],
+					"text": "annalla suaharuo"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.35s.mp3"],
+					"text": "Anna šokerie"
+				}
+			]
+		},
+		{
+			"translation": "Подуй немного (детям)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.36t.mp3"],
+					"text": "puhu vähäzen (lapšilla)"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.36s.mp3"],
+					"text": "Puhu vähäsen."
+				}
+			]
+		},
+		{
+			"translation": "Немного подожди, пусть остынет.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.37t.mp3"],
+					"text": "vuota vähäzen, ana jähtyy"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.37s.mp3"],
+					"text": "Vuota vähäsen, anna jähtyy"
+				}
+			]
+		},
+		{
+			"translation": "Сиди спокойно! (если ребенок балуется)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.38t.mp3"],
+					"text": "issu tyynylleh!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.38s.mp3"],
+					"text": "Issu rauhašša"
+				}
+			]
+		},
+		{
+			"translation": "Кушай, не разговаривай!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.39t.mp3"],
+					"text": "šyö, elä pagize"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.39s.mp3"],
+					"text": "šyö ta elä pakaja"
+				}
+			]
+		},
+		{
+			"translation": "Не торопись!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.40t.mp3"],
+					"text": "elä kiirähä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.40s.mp3"],
+					"text": "elä kiirehä"
+				}
+			]
+		},
+		{
+			"translation": "Я еще есть хочу (не наелся).",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.41t.mp3"],
+					"text": "mie vielä tahon šyvvä (en kylläššyn)"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.41s.mp3"],
+					"text": "Mie tahon vielä šyyvvä"
+				}
+			]
+		},
+		{
+			"translation": "Немного не хватило (не наелся).",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.42t.mp3"],
+					"text": "vähäzen ei fatti (en kylläššyn)"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.42s.mp3"],
+					"text": "Vielä vähäsen himottais šyyvvä"
+				}
+			]
+		},
+		{
+			"translation": "Я хочу горячего чаю!",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.43t.mp3"],
+					"text": "mie tahon palavua čuajuo!"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.43s.mp3"],
+					"text": "Tahon kuumua čäijyö"
+				}
+			]
+		},
+		{
+			"translation": "Я чай не буду пить.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.44t.mp3"],
+					"text": "mie čuajuo en rubie juomah"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.44s.mp3"],
+					"text": "Mie en rupie čäijyö juomah"
+				}
+			]
+		},
+		{
+			"translation": "Холодную воду попью.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.45t.mp3"],
+					"text": "juon viluo vettä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.45s.mp3"],
+					"text": "Juon viluo vettä"
+				}
+			]
+		},
+		{
+			"translation": "Есть конфеты (к чаю)?",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.46t.mp3"],
+					"text": "ollougo kanafetkua (čuajuh)?"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.46s.mp3"],
+					"text": "Onko mitänih makieta?"
+				}
+			]
+		},
+		{
+			"translation": "я с сахаром чай не пью.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.47t.mp3"],
+					"text": "mie suaharonke en juo."
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.47s.mp3"],
+					"text": "Mie en juo šokerin kera"
+				}
+			]
+		},
+		{
+			"translation": "Морс сварим.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.48t.mp3"],
+					"text": "keitämmä karbalovettä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.48s.mp3"],
+					"text": "Keitämmä morššie"
+				}
+			]
+		},
+		{
+			"translation": "Сварим морс из брусники.",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.49t.mp3"],
+					"text": "keitämmä buolavettä"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.49s.mp3"],
+					"text": "Keitämmä marjavettä"
+				}
+			]
+		},
+		{
+			"translation": "брусника",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.50t.mp3"],
+					"text": "buola"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.50s.mp3"],
+					"text": "puolukka"
+				}
+			]
+		},
+		{
+			"translation": "клюква",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.51t.mp3"],
+					"text": "karbalo"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.51s.mp3"],
+					"text": "karpalo"
+				}
+			]
+		},
+		{
+			"translation": "малина",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.52t.mp3"],
+					"text": "vavarno"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.52s.mp3"],
+					"text": "malina"
+				}
+			]
+		},
+		{
+			"translation": "черника",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.53t.mp3"],
+					"text": "mussikka"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.53s.mp3"],
+					"text": "mussikka"
+				}
+			]
+		},
+		{
+			"translation": "пирог с ягодами",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.54t.mp3"],
+					"text": "marjapiirua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.54s.mp3"],
+					"text": "marjapiirua"
+				}
+			]
+		},
+		{
+			"translation": "пирог с рыбой",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.55t.mp3"],
+					"text": "kalapiirua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.55s.mp3"],
+					"text": "kalapiirua"
+				}
+			]
+		},
+		{
+			"translation": "пирог с мясом",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.56t.mp3"],
+					"text": "lihapiirua"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.56s.mp3"],
+					"text": "lihapiirua"
+				}
+			]
+		},
+		{
+			"translation": "пирожки (жареные)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"audios": ["/content/audio/1/1/6/6.57t.mp3"],
+					"text": "obarnikat"
+				},
+				{
+					"title": "северный",
+					"audios": ["/content/audio/1/2/6/6.57s.mp3"],
+					"text": "paissetut piiruat"
+				}
+			]
+		}
+	]
+}
