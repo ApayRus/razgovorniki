@@ -9,10 +9,13 @@ export default function ChapterList(props) {
 			{chapters.map((chapter, index) => {
 				const { id, title } = chapter
 				return (
-					<Link href={`${langId}/chapter/${id}`} key={`chapter-${index}`}>
+					<Link
+						href={`/language/${langId}/chapter/${id}`}
+						key={`chapter-${index}`}
+					>
 						<ListItem disablePadding>
 							<ListItemButton>
-								<ListItemText>{title}</ListItemText>
+								<ListItemText primary={title} />
 							</ListItemButton>
 						</ListItem>
 					</Link>

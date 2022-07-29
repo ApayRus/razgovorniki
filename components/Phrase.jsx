@@ -11,7 +11,7 @@ export default function Phrase(props) {
 	}
 
 	return (
-		<div className={`${styles.phrase} card`}>
+		<div className={`${styles.phrase} ${styles.card}`}>
 			<div className={styles.translation}>
 				<Typography variant='h5'>{`${index + 1}. ${translation}`}</Typography>
 			</div>

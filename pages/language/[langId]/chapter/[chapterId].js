@@ -2,6 +2,10 @@ import Link from 'next/link'
 import Phrase from '../../../../components/Phrase'
 import { getChapterContent, getLangInfo } from '../../../../utils/api'
 import fs from 'fs'
+import Layout from '../../../../components/Layout'
+import styles from '../../../../styles/ChapterPage.module.css'
+import pageStyles from '../../../../styles/Page.module.css'
+import ChapterList from '../../../../components/ChapterList'
 
 export default function LanguagePage(props) {
 	const {
@@ -9,22 +13,49 @@ export default function LanguagePage(props) {
 		// chapterId,
 		title,
 		// description,
-		phrases,
+		phrases: phrasesList,
 		langInfo
 	} = props
 
+	const meta = {
+		title,
+		description: `разговорник ${langInfo.title}`,
+		tags: `${phrasesList.map(elem => elem.title).join(', ')}`
+	}
+
+	const phrases = phrasesList.map((phrase, index) => {
+		const phraseProps = { ...phrase, index }
+		return (
+			<div className={styles.phraseContainer}>
+				<Phrase {...phraseProps} key={`phrase-${index}`} />
+			</div>
+		)
+	})
+
 	return (
-		<div>
-			<Link href={`/language/${langId}`}>
-				<div>&larr; {langInfo.title}</div>
-			</Link>
-			<h1>{title}</h1>
-			{/* <p>{description}</p> */}
-			{phrases.map((phrase, index) => {
-				const phraseProps = { ...phrase, index }
-				return <Phrase {...phraseProps} key={`phrase-${index}`} />
-			})}
-		</div>
+		<Layout meta={meta}>
+			<main>
+				{/* breadcrumbs */}
+				<div className={pageStyles.breadcrumbs}>
+					<Link href={`/language/${langId}`}>
+						<div>&larr; {langInfo.title}</div>
+					</Link>
+				</div>
+				{/* title  */}
+				<div className={pageStyles.title}>
+					<h1>{title}</h1>
+					{/* <p>{description}</p> */}
+				</div>
+				{/* phrases and chapters -- 2 columns  */}
+				<div className={styles.mainContainer}>
+					<div className={styles.phrasesContainer}>{phrases}</div>
+					<div className={styles.chaptersContainer}>
+						<h2>Главы</h2>
+						<ChapterList langId={langId} chapters={langInfo.chapters} />
+					</div>
+				</div>
+			</main>
+		</Layout>
 	)
 }
 

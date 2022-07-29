@@ -26,14 +26,12 @@ a {
 }
 
 /* -------- Home.module.css */
-
+/* 
 .container {
 	padding: 0 2rem;
 }
 
 .heading {
-	/* min-height: 100vh; */
-	/* padding: 4rem 0; */
 	flex: 1;
 	display: flex;
 	flex-direction: column;
@@ -42,8 +40,6 @@ a {
 }
 
 .main {
-	/* min-height: 100vh; */
-	/* padding: 4rem 0; */
 	flex: 1;
 	display: flex;
 	flex-direction: column;
@@ -169,3 +165,4 @@ a {
 	width: 100px;
 	height: 100px;
 }
+ */

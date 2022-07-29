@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import styles from '../styles/HomePage.module.css'
 
 export default function LangList(props) {
 	const { langs } = props
@@ -7,7 +8,7 @@ export default function LangList(props) {
 		const { title, description, id } = lang
 		return (
 			<Link href={`/language/${id}`} key={`lang-${index}`}>
-				<div className='card'>
+				<div className={styles.card}>
 					<h2>{title} &rarr;</h2>
 					<p>{description}</p>
 				</div>

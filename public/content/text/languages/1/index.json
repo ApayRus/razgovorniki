@@ -5,43 +5,86 @@
 	"chapters": [
 		{
 			"id": "1",
-			"title": "1. Приветствие и знакомство"
+			"title": "1. Приветствие, знакомство, прощание",
+			"dialects": [
+				{ "title": "тверской", "text": "Pagautuš. Tuttavuš. Prostiečenda." },
+				{ "title": "северный", "text": "Tervehyš Tuttavuštumini Hyväkšymini" }
+			]
 		},
 		{
 			"id": "2",
-			"title": "2. Разговор, общие фразы"
+			"title": "2. Разговор, общие фразы",
+			"dialects": [
+				{ "title": "тверской", "text": "Pagina" },
+				{ "title": "северный", "text": "pakina" }
+			]
 		},
 		{
 			"id": "3",
-			"title": "3. Дела, занятия"
+			"title": "3. Дела, занятия",
+			"dialects": [
+				{ "title": "тверской", "text": "Dielat. Aziet" },
+				{ "title": "северный", "text": "Asiet. Harraššukšet" }
+			]
 		},
 		{
 			"id": "4",
-			"title": "4. Вопросы"
+			"title": "4. Вопросы",
+			"dialects": [
+				{ "title": "тверской", "text": "Kyžymykšet" },
+				{ "title": "северный", "text": "Kyšymykšet" }
+			]
 		},
 		{
 			"id": "5",
-			"title": "5. Путешествие"
+			"title": "5. Путешествие",
+			"dialects": [
+				{ "title": "тверской", "text": "Matkuššanda / matkuštamine" },
+				{ "title": "северный", "text": "matkuštelu" }
+			]
 		},
 		{
 			"id": "6",
-			"title": "6. Приготовление пищи, трапеза"
+			"title": "6. Приготовление пищи, трапеза",
+			"dialects": [
+				{ "title": "тверской", "text": "Emannuš.  šyöndä" },
+				{ "title": "северный", "text": "Ruoan laittamini. Šyömini" }
+			]
 		},
 		{
 			"id": "7",
-			"title": "7. Общение с детьми"
+			"title": "7. Общение с детьми",
+			"dialects": [
+				{ "title": "тверской", "text": "Pagina lapšinke" },
+				{ "title": "северный", "text": "Pakina lapšen kera" }
+			]
 		},
 		{
 			"id": "8",
-			"title": "8. Досуг"
+			"title": "8. Досуг",
+			"dialects": [
+				{ "title": "тверской", "text": "joudavuš" },
+				{ "title": "северный", "text": "Ajan vietto" }
+			]
 		},
 		{
 			"id": "9",
-			"title": "9. Общение в интернете"
+			"title": "9. Интернет (веб-приложение, заказ, переписка)",
+			"dialects": [
+				{
+					"title": "тверской",
+					"text": "Internetta (internetta-täytöš , luajituš , kirjanvaihoš)"
+				},
+				{ "title": "северный", "text": "Internetti šovelluš tilauš Šeuruštelu" }
+			]
 		},
 		{
 			"id": "10",
-			"title": "10. В пути"
+			"title": "10. В автомобиле",
+			"dialects": [
+				{ "title": "тверской", "text": "mašinašša" },
+				{ "title": "северный", "text": "Autošša" }
+			]
 		}
 	],
 

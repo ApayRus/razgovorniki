@@ -1,0 +1,32 @@
+/* @media screen and (min-width: 0) {
+} */
+
+.titleBlock {
+}
+
+.phraseContainer {
+	margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 900px) {
+	.mainContainer {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.phrasesContainer {
+		width: 60%;
+	}
+	.chaptersContainer {
+		width: 35%;
+		position: sticky;
+		top: 1rem;
+		align-self: flex-start;
+		color: dimgray;
+	}
+}
+
+.chaptersContainer h2 {
+	text-align: center;
+	margin: 0;
+}

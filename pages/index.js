@@ -1,42 +1,42 @@
-import Head from 'next/head'
 import LangList from '../components/LangList'
+import Layout from '../components/Layout'
 import TeamList from '../components/TeamList'
 import { getSiteInfo } from '../utils/api'
+import styles from '../styles/HomePage.module.css'
+import { Typography } from '@mui/material'
+import pageStyles from '../styles/Page.module.css'
 
 export default function Home(props) {
 	const { langList, teamList, siteTitle, siteDescription } = props
+	const meta = {
+		title: siteTitle,
+		description: siteDescription,
+		tags: `${langList.map(elem => elem.title).join(', ')}`
+	}
+
 	return (
-		<div className='container'>
-			<Head>
-				<title>Разговорники</title>
-				<meta
-					name='description'
-					content='Нанайский, Карельский, Мокшанский, Хантыйский'
-				/>
-				<link rel='icon' href='/favicon.ico' />
-			</Head>
-
-			<header className='heading'>
-				<h1 className='title'>{siteTitle}</h1>
-				<p className='description'>{siteDescription}</p>
-			</header>
-
-			<main className='main'>
-				<section className='langs'>
-					<div className='grid'>
+		<Layout meta={meta}>
+			<main className={pageStyles.mainContainer}>
+				<header>
+					<h1 className={pageStyles.title}>{siteTitle}</h1>
+					<div className={pageStyles.description}>
+						<Typography paragraph>{siteDescription}</Typography>
+					</div>
+				</header>
+				<section className={styles.langs}>
+					<div className={styles.grid}>
 						<LangList langs={langList} />
 					</div>
 				</section>
-				<section className='team'>
-					<h1 className='title'>Команда</h1>
-					<div className='grid'>
+
+				<section className={styles.team}>
+					<h1 className={pageStyles.title}>Команда</h1>
+					<div className={styles.grid}>
 						<TeamList teamList={teamList} />
 					</div>
 				</section>
 			</main>
-
-			<footer className='footer'>(c) 2022</footer>
-		</div>
+		</Layout>
 	)
 }
 
