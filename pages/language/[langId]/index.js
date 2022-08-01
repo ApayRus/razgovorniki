@@ -1,3 +1,4 @@
+import fs from 'fs'
 import Link from 'next/link'
 import Layout from '../../../components/Layout'
 import ChapterList from '../../../components/ChapterList'
@@ -52,8 +53,11 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
+	const basicPath = './public/content/text'
+	const langs = fs.readdirSync(`${basicPath}/languages`)
+	const paths = langs.map(langId => ({ params: { langId } }))
 	return {
-		paths: [{ params: { langId: '1' } }, { params: { langId: '2' } }],
+		paths,
 		fallback: false // can also be true or 'blocking'
 	}
 }

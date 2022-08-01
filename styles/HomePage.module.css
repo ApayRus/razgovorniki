@@ -52,6 +52,15 @@
 	}
 }
 
+.langs .card {
+	min-width: 300px;
+	cursor: pointer;
+}
+
+.langs .card h2 {
+	margin: 0;
+}
+
 .avatar {
 	width: 100px;
 	height: 100px;

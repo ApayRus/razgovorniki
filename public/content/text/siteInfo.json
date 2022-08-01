@@ -1,6 +1,38 @@
 {
 	"title": "Разговорники",
 	"description": "Приветствуем, друзья! На этом сайте вы найдете разговорники народов России. Сайт создан в рамках проекта \"Всяк сущий в ней язык\", выполняемого Ассамблеей народов России в партнёрстве с Высшей школой экономики и поддержанного Фондом президентских грантов.",
+	"languages": [
+		{
+			"id": "1",
+			"title": "Карельский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "Тверской"
+				},
+				{
+					"id": "2",
+					"title": "Северный"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "Мокшанский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		},
+		{
+			"id": "3",
+			"title": "Нанайский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		},
+		{
+			"id": "4",
+			"title": "Хантыйский",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
+		}
+	],
 	"team": [
 		{
 			"name": "Алексей Козлов",
@@ -21,38 +53,6 @@
 			"name": "Мария Коновалова",
 			"image": "https://joeschmoe.io/api/v1/jeane",
 			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.          Quo quam obcaecati temporibus ipsa, mollitia molestiae officiis esse iure. Saepe, eum."
-		}
-	],
-	"languages": [
-		{
-			"id": "Карельский",
-			"title": "Карельский",
-			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
-			"dialects": [
-				{
-					"id": "1",
-					"title": "Тверской"
-				},
-				{
-					"id": "2",
-					"title": "Северный"
-				}
-			]
-		},
-		{
-			"id": "Мокшанский",
-			"title": "Мокшанский",
-			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
-		},
-		{
-			"id": "3",
-			"title": "Нанайский",
-			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
-		},
-		{
-			"id": "4",
-			"title": "Хантыйский",
-			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
 		}
 	]
 }
