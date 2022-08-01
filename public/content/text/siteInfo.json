@@ -25,7 +25,7 @@
 	],
 	"languages": [
 		{
-			"id": "1",
+			"id": "Карельский",
 			"title": "Карельский",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
 			"dialects": [
@@ -40,7 +40,7 @@
 			]
 		},
 		{
-			"id": "2",
+			"id": "Мокшанский",
 			"title": "Мокшанский",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!"
 		},
