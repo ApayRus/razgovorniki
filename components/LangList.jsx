@@ -10,7 +10,7 @@ export default function LangList(props) {
 			<Link href={`/language/${id}`} key={`lang-${index}`}>
 				<div className={styles.card}>
 					<h2>{title} &rarr;</h2>
-					<p>{description}</p>
+					{/* <p>{description}</p> */}
 				</div>
 			</Link>
 		)
