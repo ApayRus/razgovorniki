@@ -1,154 +1,927 @@
 {
 	"id": "8",
-	"title": "8. Досуг",
+	"title": "8. Разговор с детьми",
 	"phrases": [
+		{ "type": "subchapter", "id": 1, "title": "Ласковые обращения" },
 		{
-			"translation": "Что делаешь вечером?",
+			"id": 1,
+			"translation": "мой мальчик",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.1t.mp3"],
-					"text": "midä ruat illalla?"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.1s.mp3"],
-					"text": "Mitä ruat illalla? "
+					"id": "1",
+					"title": "standard",
+					"text": "цёранязе",
+					"transcription": "c'oran'ɛz'ə"
 				}
 			]
 		},
 		{
-			"translation": "Когда ты свободен?",
+			"id": 2,
+			"translation": "моя девочка",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.2t.mp3"],
-					"text": "konža šie olet joudava?"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.2s.mp3"],
-					"text": "Konša šiula on aikua?"
+					"id": "1",
+					"title": "standard",
+					"text": "стирьнязе",
+					"transcription": "st'ər'n'ɛz'ə"
 				}
 			]
 		},
 		{
-			"translation": "Пойдем на концерт.",
+			"id": 3,
+			"translation": "внук/внучка",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.3t.mp3"],
-					"text": "läkki koncertah"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.3s.mp3"],
-					"text": "Läkkä konserttih"
+					"id": "1",
+					"title": "standard",
+					"text": "уноконязе",
+					"transcription": "unəkən'ɛz'ə"
 				}
 			]
 		},
 		{
-			"translation": "Поехали на праздник.",
+			"id": 4,
+			"translation": "дитятко",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.4t.mp3"],
-					"text": "läkki pruazniekalla"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.4s.mp3"],
-					"text": "Läkkä pruasniekkah yheššä"
+					"id": "1",
+					"title": "standard",
+					"text": "иднязе",
+					"transcription": "id'n'ɛz'ə"
 				}
 			]
 		},
 		{
-			"translation": "Пойдем в гости.",
+			"id": 5,
+			"translation": "милый",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.5t.mp3"],
-					"text": "läkki gostih"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.5s.mp3"],
-					"text": "Läkkä gostih"
+					"id": "1",
+					"title": "standard",
+					"text": "кельгомнязе",
+					"transcription": "kɛl'gəmn'ɛz'ə"
 				}
 			]
 		},
 		{
-			"translation": "Пойдем гулять.",
+			"id": 6,
+			"translation": "нежная (о девочке)",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.6t.mp3"],
-					"text": "läkki gul’aimah"
-				},
+					"id": "1",
+					"title": "standard",
+					"text": "ляпонязе",
+					"transcription": "l'ɛpən'ɛz'ə"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 2, "title": "Поощрение" },
+		{
+			"id": 7,
+			"translation": "умница",
+			"dialects": [
 				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.6s.mp3"],
-					"text": "Tuletko kävelömäh"
+					"id": "1",
+					"title": "standard",
+					"text": "ёжуня",
+					"transcription": "jožun'ɛ"
 				}
 			]
 		},
 		{
-			"translation": "А не хочешь в театр/на выставку.",
+			"id": 8,
+			"translation": "хорошая девочка",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.7t.mp3"],
-					"text": "etgo taho lähtie teatrah/ kačondapaikkah?"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.7s.mp3"],
-					"text": "Etkö taho lähtie teatterih/näyttelyh?"
+					"id": "1",
+					"title": "standard",
+					"text": "цебярь стирня",
+					"transcription": "cebɛr' s't'ər'n'ɛ"
 				}
 			]
 		},
 		{
-			"translation": "Встретимся в семь.",
+			"id": 9,
+			"translation": "Хороший мальчик",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.8t.mp3"],
-					"text": "vaštuačemma šeiččimen čuasun aigah"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.8s.mp3"],
-					"text": "Vaštauvumma kello šeiččemen"
+					"id": "1",
+					"title": "standard",
+					"text": "цебярь цёраня",
+					"transcription": "c'ebɛr' c'oran'ɛ, c'ɛbɛr' stər'n'ɛ"
 				}
 			]
 		},
 		{
-			"translation": "Встретимся утром/днем/вечером",
+			"id": 10,
+			"translation": "послушный",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.9t.mp3"],
-					"text": "vaštuačemma huomnekšella / päivällä / illalla"
-				},
-				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.9s.mp3"],
-					"text": "Vaštauvumma huomenekšella/päivällä/illalla"
+					"id": "1",
+					"title": "standard",
+					"text": "кулхцонды",
+					"transcription": "kul̥cəndi"
 				}
 			]
 		},
 		{
-			"translation": "Приходи на чай",
+			"id": 11,
+			"translation": "самый лучший",
 			"dialects": [
 				{
-					"title": "тверской",
-					"audios": ["/content/audio/1/1/8/8.10t.mp3"],
-					"text": "tule čuajuo juomah"
-				},
+					"id": "1",
+					"title": "standard",
+					"text": "инь цебярсь",
+					"transcription": "in' c'ebɛr's'"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 3, "title": "Наказание" },
+		{
+			"id": 12,
+			"translation": "поставлю в угол! (и на колени)",
+			"dialects": [
 				{
-					"title": "северный",
-					"audios": ["/content/audio/1/2/8/8.10s.mp3"],
-					"text": "Tule čäijyö juomah"
+					"id": "1",
+					"title": "standard",
+					"text": "пуття ужети",
+					"transcription": "putt'ɛ užət'i"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"translation": "не пущу весь день никуда",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "аф нолдатя ковга",
+					"transcription": "af noldat'ɛ kovgə"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"translation": "глупый!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "аф ёжу",
+					"transcription": "af jožu!"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"translation": "шалун!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "потишка!",
+					"transcription": "pot'iška!"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"translation": "зачем ты так делаешь?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "меяма дага тиеть?",
+					"transcription": "mejamə dagə t'ijət'?"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"translation": "что ты натворил?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "меяма тият?",
+					"transcription": "mejamə t'ijat?"
+				}
+			]
+		},
+		{
+			"id": 18,
+			"translation": "Зачем ты так себя ведешь?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мес тяфта вятьсак пряцень?",
+					"transcription": "mes t'aftə vɛt'sak pr'ɛc'ɛn'?"
+				}
+			]
+		},
+		{
+			"id": 19,
+			"translation": "Почему не слушаешься меня?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мес аф кулхцонсамак монь?",
+					"transcription": "mes af kul̥cənsamak mon'?"
+				}
+			]
+		},
+		{
+			"id": 20,
+			"translation": "Слушайся маму!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "кулхцонтк тядяцень",
+					"transcription": "kul̥cəntk t'ɛd'ɛc'ən'"
+				}
+			]
+		},
+		{
+			"id": 21,
+			"translation": "Не шали",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тят азорованда!",
+					"transcription": "t'at azəravanda!"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 4, "title": "Доброе утро" },
+		{
+			"id": 22,
+			"translation": "Вставай!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "пинге стямс",
+					"transcription": "p'in'gə st'ams "
+				}
+			]
+		},
+		{
+			"id": 23,
+			"translation": "Надо вставать!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "стяма",
+					"transcription": "st'ama!"
+				}
+			]
+		},
+		{
+			"id": 24,
+			"translation": "Иди завтракать",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "сак ярхцама",
+					"transcription": "sak jar̥camə"
+				}
+			]
+		},
+		{
+			"id": 25,
+			"translation": "Мне неохота вставать",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "аф, мон нинге ащан мадозь",
+					"transcription": "af, mon n'ingə aščan madəz'"
+				}
+			]
+		},
+		{
+			"id": 26,
+			"translation": "Не хочется вставать",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "монь аф мелезе стямс, ",
+					"transcription": "mon' af mɛl'əz'ə st'ams"
+				}
+			]
+		},
+		{
+			"id": 27,
+			"translation": "Поторопись (в школу)!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "эряскодт!",
+					"transcription": "er'askətt!"
+				}
+			]
+		},
+		{
+			"id": 28,
+			"translation": "давай скорее",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "давай вишконяста",
+					"transcription": "davaj viškən'astə"
+				}
+			]
+		},
+		{
+			"id": 29,
+			"translation": "Мне завтра ко второму уроку",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "теен тячи омбоце урокти",
+					"transcription": "t'ejən t'ɛči ombəc'ə urokt'i"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 5, "title": "Утешение" },
+		{
+			"id": 30,
+			"translation": "Почему ты плачешь?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мезенкса авардят?",
+					"transcription": "mez'(ənksa) avar'd'at?"
+				}
+			]
+		},
+		{
+			"id": 31,
+			"translation": "Что случилось?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "меяма лиссь?",
+					"transcription": "mejama lis's'? "
+				}
+			]
+		},
+		{
+			"id": 32,
+			"translation": "Тебя кто-нибудь обидел?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тонь кивок обжанзе",
+					"transcription": "ton' kivək obəžan'z'ə"
+				}
+			]
+		},
+		{
+			"id": 33,
+			"translation": "Я упал и ударился",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мон прань и эрьхтевонь",
+					"transcription": "mon pran' i er̥'t'əvən'"
+				}
+			]
+		},
+		{
+			"id": 34,
+			"translation": "Мне больно",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "монь сяряди пекозе",
+					"transcription": "mon s'ɛr'ɛd'i pɛkəz'ə"
+				}
+			]
+		},
+		{
+			"id": 35,
+			"translation": "Не плачь",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тят аварьде",
+					"transcription": "t'ɛt avar'd'ə"
+				}
+			]
+		},
+		{
+			"id": 36,
+			"translation": "Я никому не расскажу",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мон тянь киндинге аф азса",
+					"transcription": "mon t'ɛn' kin'd'in'gə af azsa"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 6, "title": "Разговор за едой" },
+		{
+			"id": 37,
+			"translation": "Суп горячий",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "лямсь пси",
+					"transcription": "l'ɛms' ps'i"
+				}
+			]
+		},
+		{
+			"id": 38,
+			"translation": "Подуй",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "уфак",
+					"transcription": "ufak"
+				}
+			]
+		},
+		{
+			"id": 39,
+			"translation": "Надо всё доесть",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "ямсь сивома оптом",
+					"transcription": "jams' sivəma optəm"
+				}
+			]
+		},
+		{
+			"id": 40,
+			"translation": "Не хочешь есть — иди гуляй",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "аф ярхцат — архт колентть",
+					"transcription": "af jar̥cat — ar̥t kol'ən't't'"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 7, "title": "Разговор на ночь" },
+		{
+			"id": 41,
+			"translation": "Иди спать",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "архт матт",
+					"transcription": "ar̥t matt"
+				}
+			]
+		},
+		{
+			"id": 42,
+			"translation": "Уже поздно",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "позда ни",
+					"transcription": "pozda n'i"
+				}
+			]
+		},
+		{
+			"id": 43,
+			"translation": "Пора спать",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мадома ни",
+					"transcription": "madəma n'i"
+				}
+			]
+		},
+		{
+			"id": 44,
+			"translation": "Я расскажу тебе на ночь сказку",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "азан теен венди ёфкс",
+					"transcription": "azan t'ejən ven'd'i jofks"
+				}
+			]
+		},
+		{
+			"id": 45,
+			"translation": "Добрых снов",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "цебярь отт няемс",
+					"transcription": "cebɛr' ott n'ɛjəms"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 8, "title": "Игры" },
+		{
+			"id": 46,
+			"translation": "Лапта/игра в мяч",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "лаптуса коленттяма",
+					"transcription": "laptusə kol'ən't't'əma"
+				}
+			]
+		},
+		{
+			"id": 47,
+			"translation": "Игра в баночки",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "баночкаса коленттяма (колендема)",
+					"transcription": "banəčkasə kol'ən't't'əma (kol'ən'd'əma)"
+				}
+			]
+		},
+		{
+			"id": 48,
+			"translation": "Ледянка из навоза",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "горнама",
+					"transcription": "gornama"
+				}
+			]
+		},
+		{
+			"id": 49,
+			"translation": "Догонялки",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "сатнинякс",
+					"transcription": "satn'in'aks"
+				}
+			]
+		},
+		{
+			"id": 50,
+			"translation": "Снежный дом",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "ловонь кудне",
+					"transcription": "lovən' kudn'e"
+				}
+			]
+		},
+		{
+			"id": 51,
+			"translation": "Кататься на санках",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "нурданяса арнема",
+					"transcription": "nurdən'asə arn'əma"
+				}
+			]
+		},
+		{
+			"id": 52,
+			"translation": "Строить снеговика",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "ловонь баба тиендема",
+					"transcription": "lovən' baba t'ijən'd'əma"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 9, "title": "Разговор об играх" },
+		{
+			"id": 53,
+			"translation": "Давай играть!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "адя колендема",
+					"transcription": "ad'a kol'ənd'əma"
+				}
+			]
+		},
+		{
+			"id": 54,
+			"translation": "Давай играть в лапту!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "адя лаптуса коленттяма",
+					"transcription": "ad'a laptusə kol'ən't't'əma"
+				}
+			]
+		},
+		{
+			"id": 55,
+			"translation": "Давай играть в баночки!",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "адя баночкаса колендема",
+					"transcription": "ad'a banəčkəsə kol'ən'd'əma"
+				}
+			]
+		},
+		{
+			"id": 56,
+			"translation": "Пойдем играть в прятки",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "кяшендинякс колендема",
+					"transcription": "kɛšən'd'in'ɛks kol'ən'd'əma"
+				}
+			]
+		},
+		{
+			"id": 57,
+			"translation": "Убери игрушки",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "урядайть колендематнень",
+					"transcription": "ur'adajt' kol'ən'd'əmatn'ən'"
+				}
+			]
+		},
+		{
+			"id": 58,
+			"translation": "Хватит играть в телефон",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "саты телефонса колендемс",
+					"transcription": "sati tel'efonsə kol'ənd'əms"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 10, "title": "Обращения к родственникам" },
+		{
+			"id": 59,
+			"translation": "мама",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тядяй",
+					"transcription": "t'ɛd'ɛj"
+				}
+			]
+		},
+		{
+			"id": 60,
+			"translation": "папа",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "аляй",
+					"transcription": "al'aj"
+				}
+			]
+		},
+		{
+			"id": 61,
+			"translation": "бабушка (по матери)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "шавай",
+					"transcription": "šavaj"
+				}
+			]
+		},
+		{
+			"id": 62,
+			"translation": "дедушка (по матери)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "щятяй",
+					"transcription": "šɛt'ɛj"
+				}
+			]
+		},
+		{
+			"id": 63,
+			"translation": "бабушка (по отцу)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "атяй",
+					"transcription": "at'aj"
+				}
+			]
+		},
+		{
+			"id": 64,
+			"translation": "дедушка (по отцу)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "бабай",
+					"transcription": "babaj"
+				}
+			]
+		},
+		{
+			"id": 65,
+			"translation": "пра-(бабушка/дедушка)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "сире-",
+					"transcription": "s'irɛ-"
+				}
+			]
+		},
+		{
+			"id": 66,
+			"translation": "тетя (о незнакомых)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "акась, аваняй",
+					"transcription": "akas', avan'ɛj"
+				}
+			]
+		},
+		{
+			"id": 67,
+			"translation": "дядя (о незнакомых)",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "альняка, щеня",
+					"transcription": "al'n'ɛka, šen'ɛ"
+				}
+			]
+		},
+		{ "type": "subchapter", "id": 11, "title": "Спросить разрешения" },
+		{
+			"id": 68,
+			"translation": "можно я погуляю с друзьями?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "можна молян ульцяв",
+					"transcription": "možna mol'an ulc'av"
+				}
+			]
+		},
+		{
+			"id": 69,
+			"translation": "можно я поиграю с друзьями?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "можна колендян ялганень мархта",
+					"transcription": "možna kol'ən'd'an jalgan'ən' mar̥tə?"
+				}
+			]
+		},
+		{
+			"id": 70,
+			"translation": "можно я приглашу друга в гости?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "можна мон терца ялгазень инжикс?",
+					"transcription": "možna mon t'erca jalgaz'en' inžiks?"
+				}
+			]
+		},
+		{
+			"id": 71,
+			"translation": "можно я пойду в гости?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "можна инжикс?",
+					"transcription": "možna inžiks?"
+				}
+			]
+		},
+		{
+			"id": 72,
+			"translation": "ты сделал уроки?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тон тиить сембе урокнень?",
+					"transcription": "ton tijət' s'embe urokn'en'?"
+				}
+			]
+		},
+		{
+			"id": 73,
+			"translation": "что тебе задали?",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "мезе тейт макссть школаса?",
+					"transcription": "mez'ə t'ejət makss't' školəsə?"
+				}
+			]
+		},
+		{
+			"id": 74,
+			"translation": "иди играй с друзьями",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "архт ялгатненди",
+					"transcription": "ar̥t jalgatn'ən'd'i"
+				}
+			]
+		},
+		{
+			"id": 75,
+			"translation": "делай уроки",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "тихть урокнень",
+					"transcription": "t'ijit' urokn'ən'"
+				}
+			]
+		},
+		{
+			"id": 76,
+			"translation": "Иди домой",
+			"dialects": [
+				{
+					"id": "1",
+					"title": "standard",
+					"text": "архт куду",
+					"transcription": "ar̥t kudu"
 				}
 			]
 		}
