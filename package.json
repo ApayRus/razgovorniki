@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "eslint": "8.20.0",
-    "eslint-config-next": "12.2.3"
+    "eslint-config-next": "12.2.3",
+    "fuse.js": "^6.6.2"
   }
 }
