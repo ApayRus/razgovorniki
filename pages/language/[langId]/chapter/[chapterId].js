@@ -1,3 +1,4 @@
+import React from 'react'
 import Link from 'next/link'
 import Phrase from '../../../../components/Phrase'
 import { getChapterContent, getLangInfo } from '../../../../utils/api'
@@ -25,7 +26,11 @@ export default function LanguagePage(props) {
 
 	const phrases = phrasesList.map((phrase, index) => {
 		const phraseProps = { ...phrase, index }
-		return (
+		return phrase.type === 'subchapter' ? (
+			<div className={pageStyles.subtitle}>
+				<h2>{phrase.title}</h2>
+			</div>
+		) : (
 			<div className={styles.phraseContainer} key={`phrase-${index}`}>
 				<Phrase {...phraseProps} />
 			</div>
