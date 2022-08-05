@@ -1,0 +1,22 @@
+// that is info how to parse table for each language
+// first level key is lang id
+//	order of dialect column indexes should be the same as in langInfo.dialects, e.g. [0, 4, 2]
+
+{
+	"1": {
+		"columnIndexes": {
+			"translation": 0,
+			"dialects": [2, 4],
+			"transcriptions": []
+		},
+		"firstPhraseId": 0
+	},
+	"2": {
+		"columnIndexes": {
+			"translation": 0,
+			"dialects": [2],
+			"transcriptions": [1]
+		},
+		"firstPhraseId": 1
+	}
+}

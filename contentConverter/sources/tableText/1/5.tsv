@@ -1,0 +1,78 @@
+путешествие		Matkuššanda / matkuštamine		matkuštelu
+Путешествие 	5.0т	Matkuššanda / matkuštamine	сев (0)	matkuštelu
+путешествовать 	5.1т	matkuštua	сев(1)	matkata, matata, matkuštua
+Ехать на машине	5.2т	ajua mašinalla	сев(2)	Ajua autolla
+путешествовать на поезде	5.3т	ajua pojezdalla	сев(3)	matata junalla
+лететь на самолете	5.4т	lendiä samol’otalla	сев(4)	lentyä lentokonehella
+попасть на корабле	5.5т	piäššä korablilla	сев(5)	piäššä laivalla
+грести на лодке	5.6т	šoudua venehellä	сев(6)	šoutua venehellä
+ждать автобус	5.7т	vuottua avtobusua	сев(7)	vuottua autobuššie
+путник	5.8т	matkuštaja	сев(8)	matkamieš, matkalaini
+я увлекаюсь туризмом	5.9т	mie mielettelen turismua	сев(9)	harraššan turismie
+я турист/ты турист?	5.10т	mie olen turista / oletgo šie turista?	сев(10)	olen turisti/oletko turisti?
+группа	5.11т	gruuppa	сев(11)	ryhmä
+гид/проводник	5.12т	giida / matkuttaja / šuattaja	сев(12)	opaš, kulettaja, juohattaja
+дача	5.13т	duačča	сев(13)	dača, kešämökki
+Что это за достопримечательность?	5.14т	mi tämä nähtävvyš on?	сев(14)	Mi nähtävyyš tämä on?
+арендовать авто/отель/комнату/квартиру	5.15т	vuograta mašina / oteli / perti / fatera	сев(15)	vuokrata auto/hotelli/huoneh/korttieri
+я заблудился	5.16т	mie yökšyin	сев(16)	Olen ekšyn.
+не знаю где я	5.17т	en tiijä missä mie olen	сев(17)	En tiijä missä olen
+мне нужен путеводитель/аудиогид о музее/о выставке	5.18т	miula pidäy matkanvedäjä / audio- matkuttaja muzejah näh / kačondapaikkah näh	сев(18)	Mie tarvičen opaškirjasen/audio-oppahan musejošta/näyttelyštä 
+Когда начнется обзорная экскурсия по городу?	5.19т	konža zavodiečou tiedomatka linnua myöt’?	сев(19)	Konša alkau kaupunkin kiertoajelu?
+Какие достопримечательности есть в городе?	5.20т	Mittynäzet nähtävvykšet ollah linnašša?	сев(20)	Mimmosie nähtävyykšie on kaupunkissa?
+Где центральная площадь?	5.21т	Missä on linnan keškipaikka?	сев(21)	Missä on keškušaukijo?
+Музей ИЗО	5.22т	kuvaammattimuzeja	сев(22)	kuvataitomusejo
+памятник рунопевцам	5.23т	muistopačaš runonlaulailla	сев(23)	runonlaulajien muistomerkki, muistopačaš
+концертный зал/филармония	5.24т	koncertazuala / filarmonija	сев(24)	konšerttišali/filarmonija
+церковь/часовня	5.25т	kirikkö / časoun’a	сев(25)	kirikkö/časoun'a
+библиотека	5.26т	bibl’otekka	сев(26)	kirjašto
+центральный рынок	5.27т	keškilaukka	сев(27)	keškušpasari
+музей под открытым небом	5.28т	augieilmamuzeja	сев(28)	luontomusejo
+театр	5.29т	teatra	сев(29)	teatteri
+парк	5.30т	parka / puisto	сев(30)	puisto/huvotušpuisto
+набережная	5.31т	jogiranda / jogiuuličča	сев(31)	rantakatu
+фестиваль	5.32т	festivali	сев(32)	festivali
+кафе	5.33т	kafe / kafeška	сев(33)	kahvila
+ресторан	5.34т	restoruana / paraššyöndäpaikka / ravintola	сев(34)	ravintola
+туалет	5.35т	ubornoi	сев(35)	vešša
+когда поедешь на дачу?	5.36т	konža šie lähet duačalla?	сев(36)	konša šie lähet dačalla
+Возьми меня с собой, если других попутчиков не будет	5.37т	ota milma keralla kuin ei lie toista matkuštajua	сев(37)	Ota miut, još ei tule muita matkalaisie.
+я еще не решила поеду ли на велосипеде или пойду пешком	5.38т	mie en vielä rohkuačen: lähen mie velos’pedalla ajamah ali lähen jalgaziin	сев(38)	mie en ole vielä piättän, ajanko mie pyörällä vai lähen aštumalla
+А твой папа не сможет подвезти нас?	5.39т	eigo šiun tuatto voičče meidä viijä?	сев(39)	Eikö šiun tuattoš vois viijä?
+Они договорились с друзьями/гидом/турфирмой	5.40т	hyö paistih tovarissoinke, giidanke / matkuttajanke, turfirmanke	сев(40)	hyö šovittih yštävien/oppahan/turismifirman kera
+их ждет гид	5.41т	heidä vuottau giida / matkuttaja	сев(41)	heitä vuottau opaš
+Гид будет сопровождать их	5.42т	giida / matkuttaja rubieu heidä šuattelomah	сев(42)	Opaš rupieu šuattamah heitä
+во время поездки	5.43т	matkan aijalla	сев(43)	matan aikana/matašša
+центр	5.44т	keškikohta	сев(44)	keškušta
+адрес	5.45т	adressu	сев(45)	adressi, ošoiteh
+вперед	5.46т	edeh	сев(46)	eteh päin
+прямо	5.47т	kohaldi	сев(47)	šuorah
+довольно далеко	5.48т	edähköh	сев(48)	melko etähänä
+очень близко	5.49т	ylen läššä	сев(49)	hyvin lähellä
+издалека	5.50т	edähädä	сев(50)	etähyätä
+ближе	5.51т	lähembiänä	сев(51)	lähempänä
+тут	5.52т	tiälä	сев(52)	tiälä
+назад	5.53т	järelläh	сев(53)	tuakše päin
+стой на своем месте	5.54т	šeizo omalla paikalla	сев(54)	šeiso paikallaš
+надо ехать/идти	5.55т	pidäy ajua/ kopittua	сев(55)	pitäy ajua/aštuo
+повернуть налево/направо	5.56т	kiändiä važameh / oigieh	сев(56)	kiäntyö vašemmalla/oikiella
+добраться до места	5.57т	doidie paikkah šuat	сев(57)	piäššä perillä
+заблудиться	5.58т	yökšyö	сев(58)	ekšyö
+пойти в обратном направлении	5.59т	lähtie järelläh	сев(59)	lähtie päinvaštaseh šuuntah
+спросить помощь	5.60т	kyžyö abuo	сев(60)	kyšyö apuo
+что это за улица	5.61т	mi tämä uuličča on? mi tämä piha on?	сев(61)	Mi piha tämä on?
+Как мне попасть на выставку	5.62т	kuin miula piäššä kačondapaikkah?	сев(62)	Mitein mie piäšen näyttelyh?
+Поезжай вперед по этой улице	5.63т	aja edeh tädä pihua myöt’	сев(63)	Aja šuorah tätä katuo myöten
+посмотри по карте/в телефоне где этот отель_	5.64т	kačo kartašta / telefonašta missä on tämä hoteli	сев(64)	Kačo šie kartašta/telefonista missä on hotelli?
+отсюда мы не попадем к нему	5.65т	täštä myö emmä popadi hänen luoh	сев(65)	tiältä myö emmä piäše šen eteh
+издалека не видно	5.66т	edähädä ei nävy	сев(66)	etähyätä šitä ei nävy
+прибыли на место	5.67т	tulima paikalla	сев(67)	Piäsimä perillä.
+надо у кого-нибудь спросить	5.68т	pidäy kyžyö kel’däigi	сев(68)	Pitäy kyšyö keltä lienöy
+На чем попасть в Карелию?	5.69т	millä popadie Karielah?	сев(69)	Millä piäšöy Karjalah?
+Это далеко?	5.70т	tämä ongo edähänä?	сев(70)	Onko še etähänä? Onko šinne pitkä matka?
+Пойти в поход.	5.71т	lähtie kävelykšeh	сев(71)	Lähtie retkeh
+собраться на пикник	5.72т	keräydyö piknikalla	сев(72)	Šuoriutuo piknikillä
+уехать в этнолагерь	5.73т	ajua etnoluagerih	сев(73)	Ajua etnoleirih
+путешествие в горы	5.74т	matkuštamine gorih / vuorih	сев(74)	Vuorimatka
+сплав по реке	5.75т	jogimatkuštamine	сев(75)	jokimatkuštamini
+водное путешествие	5.76т	vezimatkuštamine	сев (76)	vesimatka
