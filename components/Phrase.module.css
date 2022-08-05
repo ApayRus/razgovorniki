@@ -6,24 +6,36 @@
 .dialectTitle {
 	color: grey;
 	font-size: 70%;
-	margin-bottom: -0.5rem;
-	margin-left: 0.5rem;
+	/* margin-bottom: -0.5rem;
+	margin-left: 0.5rem; */
 }
 
 .original {
-	/* margin-top: 0.5rem; */
+	margin-bottom: 0.5rem;
 }
 
 .originalPhrase {
 	margin-left: 0.5rem;
 }
 
+.num {
+	position: absolute;
+	top: 5px;
+	right: 8px;
+	font-size: 80%;
+	color: lightgrey;
+}
+
 .translation {
 	margin-bottom: 0.5rem;
+	color: dimgray;
+	/* color: dimgray;
+	font-weight: bold; */
 }
 
 .phrase {
 	width: 100%;
+	position: relative;
 }
 
 .phrase:hover {

@@ -1,3 +1,4 @@
+import React from 'react'
 import { IconButton, Typography } from '@mui/material'
 import styles from './Phrase.module.css'
 import { PlayCircleOutlineOutlined as PlayIcon } from '@mui/icons-material'
@@ -12,12 +13,13 @@ export default function Phrase(props) {
 
 	return (
 		<div className={`${styles.phrase} ${styles.card}`}>
+			<div className={styles.num}>{index + 1}</div>
 			<div className={styles.translation}>
-				<Typography variant='h5'>{`${index + 1}. ${translation}`}</Typography>
+				<Typography variant='h5'>{translation}</Typography>
 			</div>
 			<div className={styles.originalPhrase}>
 				{dialects.map((elem, dialectIndex) => {
-					const { title, text, audios } = elem
+					const { title, text, audios = [] } = elem
 					return (
 						<div className={styles.original} key={`dialect-${dialectIndex}`}>
 							<div className={styles.dialectTitle}>{title}</div>
@@ -32,7 +34,7 @@ export default function Phrase(props) {
 										</IconButton>
 									)
 								})}
-								<Typography variant='body2'>{text}</Typography>
+								<Typography variant='h6'>{text}</Typography>
 							</div>
 						</div>
 					)
