@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const langId = '1'
+const langId = '2'
 
 const basicPath = `./public/content/audio/${langId}`
 
@@ -11,11 +11,12 @@ const renameFiles = () =>
 			fs
 				.readdirSync(`${basicPath}/${dialectId}/${chapterId}`)
 				.map(oldFileName => {
-					// 2 sev(12).mp3 --> 12.mp3
-					const newFileName = oldFileName.replace(
-						/.+?\((\d+?)\).*(\.mp3)/,
-						'$1$2'
-					)
+					/* 
+				// 2 sev(12).mp3 --> 12.mp3
+					const newFileName = oldFileName
+						.replace(/.+?\((\d+?)\).*(\.mp3)/, '$1$2')
+						.trim() 
+				*/
 					/*
 				// 1.13t.mp3 --> 13.mp3
 				const newFileName = oldFileName.replace(
@@ -23,6 +24,9 @@ const renameFiles = () =>
 					'$1$2'
 				) 
 				*/
+					const [, fileName, ext] = oldFileName.match(/(.+?)(\.[^\.]+)$/, '')
+					// remove punctuation from the end of filename
+					const newFileName = fileName.replace(/[\.…,!\?]+$/, '').trim() + ext
 
 					fs.renameSync(
 						`${basicPath}/${dialectId}/${chapterId}/${oldFileName}`,
@@ -44,3 +48,4 @@ const renameFolders = () =>
 	)
 
 // renameFolders()
+renameFiles()
