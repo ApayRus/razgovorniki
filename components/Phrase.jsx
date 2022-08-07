@@ -1,14 +1,20 @@
-import React from 'react'
+import React, { useRef } from 'react'
 import { IconButton, Typography } from '@mui/material'
 import styles from './Phrase.module.css'
 import { PlayCircleOutlineOutlined as PlayIcon } from '@mui/icons-material'
 
 export default function Phrase(props) {
 	const { index = 0, id = '', translation = '', dialects = [] } = props
+	const audioElRefs = useRef(
+		dialects.map(dialect => {
+			const { audios } = dialect
+			return audios.map(audio => null)
+		})
+	)
 
-	const playAudio = path => () => {
-		const audio = new Audio(path)
-		audio.play()
+	const playAudio = (dialectIndex, audioIndex) => () => {
+		const audioEl = audioElRefs.current[dialectIndex][audioIndex]
+		audioEl.play()
 	}
 
 	return (
@@ -27,9 +33,17 @@ export default function Phrase(props) {
 								{audios.map((path, audioIndex) => {
 									return (
 										<IconButton
-											onClick={playAudio(path)}
+											onClick={playAudio(dialectIndex, audioIndex)}
 											key={`audio-${dialectIndex}-${audioIndex}`}
 										>
+											<audio
+												ref={el =>
+													(audioElRefs.current[dialectIndex][audioIndex] = el)
+												}
+												src={path}
+												controls={false}
+												preload='auto'
+											/>
 											<PlayIcon className={styles.audioIcon} />
 										</IconButton>
 									)
