@@ -18,5 +18,13 @@
 			"transcriptions": [1]
 		},
 		"firstPhraseId": 1
+	},
+	"3": {
+		"columnIndexes": {
+			"translation": 1,
+			"dialects": [0],
+			"transcriptions": []
+		},
+		"firstPhraseId": 1
 	}
 }

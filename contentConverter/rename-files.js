@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const langId = '2'
+const langId = '3'
 
 const basicPath = `./public/content/audio/${langId}`
 
@@ -13,20 +13,27 @@ const renameFiles = () =>
 				.map(oldFileName => {
 					/* 
 				// 2 sev(12).mp3 --> 12.mp3
-					const newFileName = oldFileName
-						.replace(/.+?\((\d+?)\).*(\.mp3)/, '$1$2')
-						.trim() 
-				*/
+				const newFileName = oldFileName
+					.replace(/.+?\((\d+?)\).*(\.mp3)/, '$1$2')
+					.trim() 
+					*/
+
 					/*
 				// 1.13t.mp3 --> 13.mp3
 				const newFileName = oldFileName.replace(
 					/.+?\.(\d+)\D+?(\.mp3)/,
 					'$1$2'
 				) 
-				*/
-					const [, fileName, ext] = oldFileName.match(/(.+?)(\.[^\.]+)$/, '')
-					// remove punctuation from the end of filename
-					const newFileName = fileName.replace(/[\.…,!\?]+$/, '').trim() + ext
+					*/
+
+					/* 
+				// remove punctuation from the end of filename
+				const [, fileName, ext] = oldFileName.match(/(.+?)(\.[^\.]+)$/, '')
+				const newFileName = fileName.replace(/[\.…,!\?]+$/, '').trim() + ext
+ 					*/
+
+					// remove chapter prefix: 1_1.mp3 --> 1.mp3
+					const newFileName = oldFileName.replace(/.+_/, '')
 
 					fs.renameSync(
 						`${basicPath}/${dialectId}/${chapterId}/${oldFileName}`,

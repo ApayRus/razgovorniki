@@ -1,0 +1,47 @@
+{
+	"id": "3",
+	"title": "Нанайский",
+	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsa!",
+	"chapters": [
+		{
+			"id": "1",
+			"title": "1. От сердца",
+			"dialects": [{ "title": "standard", "text": "Миаванди" }]
+		},
+		{
+			"id": "2",
+			"title": "2. Во время разговора",
+			"dialects": [{ "title": "standard", "text": "Гусэрэндуи" }]
+		},
+		{
+			"id": "3",
+			"title": "3. На дороге",
+			"dialects": [{ "title": "standard", "text": "Поктоду" }]
+		},
+		{
+			"id": "4",
+			"title": "4. Пойти в гости",
+			"dialects": [{ "title": "standard", "text": "Димаори" }]
+		},
+		{
+			"id": "5",
+			"title": "5. У меня на душе",
+			"dialects": [{ "title": "standard", "text": "Дои" }]
+		},
+		{
+			"id": "6",
+			"title": "6. Так делай",
+			"dialects": [{ "title": "standard", "text": "Туй тару" }]
+		},
+		{
+			"id": "7",
+			"title": "7. Ругань",
+			"dialects": [{ "title": "standard", "text": "Дямо" }]
+		},
+		{
+			"id": "8",
+			"title": "8. С друзьями",
+			"dialects": [{ "title": "standard", "text": "Диадии" }]
+		}
+	]
+}
