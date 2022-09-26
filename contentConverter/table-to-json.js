@@ -120,12 +120,19 @@ function getFilePhraseDialectMap(langId, chapterId, phrases) {
 					? phraseId
 					: text.replace('/', '')
 
+			const audioFile =
+				fuse[dialectId].search(searchFor, {
+					limit: 1
+				})?.[0]?.['item'] || ''
+
+			if (!audioFile) {
+				console.log(searchFor)
+			}
+
 			return {
 				phraseId,
 				dialectId,
-				audioFile: fuse[dialectId].search(searchFor, {
-					limit: 1
-				})[0]['item']
+				audioFile
 			}
 		})
 	})

@@ -26,5 +26,13 @@
 			"transcriptions": []
 		},
 		"firstPhraseId": 1
+	},
+	"4": {
+		"columnIndexes": {
+			"translation": 0,
+			"dialects": [2],
+			"transcriptions": [1]
+		},
+		"firstPhraseId": 1
 	}
 }
